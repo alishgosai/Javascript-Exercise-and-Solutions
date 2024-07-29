@@ -89,7 +89,7 @@ Provide a hint for solving question ${index}. It could be a suggestion or guidan
 Describe the expected outcome for question ${index}. What should the solution achieve or return?
 
 ### Solution
-[View Solution](./${solutionsDir}/solution${index}.js)
+[View Solution](../${solutionsDir}/solution${index}.js)
   `;
 }
 

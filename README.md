@@ -5,7 +5,7 @@
 # How to use?
 
 ## Steps: for learners
-1. Open All-questions.md file
+1. Open README.md file
 2. Read the questions and solve on your own.
 3. View solutions if you could not solve it.
 3. Additionally you can view questions and solutions from the respective folders as well.
