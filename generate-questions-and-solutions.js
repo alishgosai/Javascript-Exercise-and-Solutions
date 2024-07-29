@@ -1,20 +1,10 @@
-// # Automating Tasks using Javascript
-
-// 1. Asks the user to enter number of question files to make.
-// 2. Asks the user to enter number of solution files to make.
-// 3. Checks if the folder has empty files and missing files.
-// 4. Generate content for empty files
-// 5. Generate missing files.
-// 6. Generates number of files user inputs.
-
-
 const fs = require('fs');
 const path = require('path');
 const readline = require('readline');
 
 const questionsDir = 'questions';
 const solutionsDir = 'solutions';
-const allQuestionsFile = 'All-Questions.md';
+const readmeFile = 'README.md'; // Changed from All-Questions.md to README.md
 
 // Ensure directories exist
 if (!fs.existsSync(questionsDir)) fs.mkdirSync(questionsDir);
@@ -43,8 +33,8 @@ function promptUserAndGenerateFiles() {
       handleFileGeneration(numQ, questionsDir, 'Question', '.md', generateQuestionContent);
       handleFileGeneration(numS, solutionsDir, 'Solution', '.js', generateSolutionContent);
 
-      // Update All-Questions.md
-      updateAllQuestionsFile();
+      // Update README.md
+      updateReadmeFile();
 
       rl.close();
     });
@@ -111,8 +101,8 @@ function generateSolutionContent(index) {
   `;
 }
 
-// Function to update All-Questions.md
-function updateAllQuestionsFile() {
+// Function to update README.md
+function updateReadmeFile() {
   let questionsFiles = fs.readdirSync(questionsDir).filter(file => file.endsWith('.md')).sort((a, b) => {
     return parseInt(a.match(/\d+/)[0], 10) - parseInt(b.match(/\d+/)[0], 10);
   });
@@ -122,8 +112,8 @@ function updateAllQuestionsFile() {
     return fileContent;
   }).join('\n');
 
-  fs.writeFileSync(allQuestionsFile, content);
-  console.log(`Updated ${allQuestionsFile}`);
+  fs.writeFileSync(readmeFile, content);
+  console.log(`Updated ${readmeFile}`);
 }
 
 // Run the script
