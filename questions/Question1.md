@@ -1,3 +1,4 @@
+
 # Javascript Questions and Solutions
 
 ### Developed by [Alish Gosai](https://github.com/alishgosai)
@@ -35,5 +36,5 @@ Provide a hint for solving question 1. It could be a suggestion or guidance to h
 Describe the expected outcome for question 1. What should the solution achieve or return?
 
 ### Solution
-[View Solution](../solutions/solution1.js)
+[View Solution](./solutions/Solution1.js)
   

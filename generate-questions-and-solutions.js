@@ -30,8 +30,8 @@ function promptUserAndGenerateFiles() {
       }
 
       // Generate question and solution files
-      handleFileGeneration(numQ, questionsDir, 'question', '.md', generateQuestionContent);
-      handleFileGeneration(numS, solutionsDir, 'solution', '.js', generateSolutionContent);
+      handleFileGeneration(numQ, questionsDir, 'Question', '.md', generateQuestionContent);
+      handleFileGeneration(numS, solutionsDir, 'Solution', '.js', generateSolutionContent);
 
       // Update README.md
       updateReadmeFile();
@@ -89,7 +89,7 @@ Provide a hint for solving question ${index}. It could be a suggestion or guidan
 Describe the expected outcome for question ${index}. What should the solution achieve or return?
 
 ### Solution
-[View Solution](../${solutionsDir}/solution${index}.js)
+[View Solution](./${solutionsDir}/Solution${index}.js)
   `;
 }
 
