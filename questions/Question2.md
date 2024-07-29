@@ -11,5 +11,5 @@ Provide a hint for solving question 2. It could be a suggestion or guidance to h
 Describe the expected outcome for question 2. What should the solution achieve or return?
 
 ### Solution
-[View Solution](./solutions/solution2.js)
+[View Solution](../solutions/solution2.js)
   

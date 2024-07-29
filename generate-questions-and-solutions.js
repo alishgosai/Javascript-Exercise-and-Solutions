@@ -30,8 +30,8 @@ function promptUserAndGenerateFiles() {
       }
 
       // Generate question and solution files
-      handleFileGeneration(numQ, questionsDir, 'Question', '.md', generateQuestionContent);
-      handleFileGeneration(numS, solutionsDir, 'Solution', '.js', generateSolutionContent);
+      handleFileGeneration(numQ, questionsDir, 'question', '.md', generateQuestionContent);
+      handleFileGeneration(numS, solutionsDir, 'solution', '.js', generateSolutionContent);
 
       // Update README.md
       updateReadmeFile();
