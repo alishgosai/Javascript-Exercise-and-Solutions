@@ -1,4 +1,14 @@
-
 // Solution for Question 3
-// Write your solution for Question 3 here
+
+function isEven(myNumber) {
+
+  if (myNumber % 2 === 0) {
+    return true;
+  } else {
+    return false;
+  }
   
+}
+
+console.log(isEven(54));    // true
+console.log(isEven(209));   // false

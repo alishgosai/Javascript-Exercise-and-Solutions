@@ -6,13 +6,14 @@
 
 
 ### **Description**
-Provide a clear and concise description of the task for **Question 3**. For example, if the task involves creating a function, explain what the function should accomplish and any parameters it should accept.
+Write a function `isEven` that checks if a given number is even. The function should return `true` if the number is even, and `false` otherwise.
 
 ### **Hint**
-![Hint](https://img.shields.io/badge/Hint:-blue) Provide useful hints or tips for solving **Question 3**. For instance, suggest key methods or concepts to consider.
+![Hint](https://img.shields.io/badge/Hint:-blue) You can use the modulo operator `%` to check if a number is divisible by 2.
 
 ### **Expected Output**
-![Output](https://img.shields.io/badge/Output:-blue) Describe the expected result or output of **Question 3**. Specify what the function or solution should return or how it should behave.
+![Output](https://img.shields.io/badge/Output:-blue) 
+The function `isEven(4)` should return `true`, and `isEven(7)` should return `false`.
 
 ### ![Solution](https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white)
 [View Solution](./solutions/Solution3.js)

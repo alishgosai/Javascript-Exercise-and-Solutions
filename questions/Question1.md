@@ -1,4 +1,6 @@
+# JavaScript Questions and Solutions
 
+### Developed by [Alish Gosai](https://github.com/alishgosai)
 
   
 ## Question 1
@@ -6,13 +8,15 @@
 
 
 ### **Description**
-Provide a clear and concise description of the task for **Question 1**. For example, if the task involves creating a function, explain what the function should accomplish and any parameters it should accept.
+Write a function `greet` that takes a name as a parameter and returns a greeting message. For example, if the input is `"Alish"`, the function should return `"Hello, Alish!"`.
 
 ### **Hint**
-![Hint](https://img.shields.io/badge/Hint:-blue) Provide useful hints or tips for solving **Question 1**. For instance, suggest key methods or concepts to consider.
+![Hint](https://img.shields.io/badge/Hint:-blue) 
+You can use string concatenation to combine `"Hello, "` with the input name and `"!"`.
 
 ### **Expected Output**
-![Output](https://img.shields.io/badge/Output:-blue) Describe the expected result or output of **Question 1**. Specify what the function or solution should return or how it should behave.
+![Output](https://img.shields.io/badge/Output:-blue) 
+The function `greet("Alish")` should return `"Hello, Alish!"`.
 
 ### ![Solution](https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white)
 [View Solution](./solutions/Solution1.js)

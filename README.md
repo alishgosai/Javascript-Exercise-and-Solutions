@@ -1,4 +1,6 @@
+# JavaScript Questions and Solutions
 
+### Developed by [Alish Gosai](https://github.com/alishgosai)
 
   
 ## Question 1
@@ -6,13 +8,15 @@
 
 
 ### **Description**
-Provide a clear and concise description of the task for **Question 1**. For example, if the task involves creating a function, explain what the function should accomplish and any parameters it should accept.
+Write a function `greet` that takes a name as a parameter and returns a greeting message. For example, if the input is `"Alice"`, the function should return `"Hello, Alice!"`.
 
 ### **Hint**
-![Hint](https://img.shields.io/badge/Hint:-blue) Provide useful hints or tips for solving **Question 1**. For instance, suggest key methods or concepts to consider.
+![Hint](https://img.shields.io/badge/Hint:-blue) 
+You can use string concatenation to combine `"Hello, "` with the input name and `"!"`.
 
 ### **Expected Output**
-![Output](https://img.shields.io/badge/Output:-blue) Describe the expected result or output of **Question 1**. Specify what the function or solution should return or how it should behave.
+![Output](https://img.shields.io/badge/Output:-blue) 
+The function `greet("Alice")` should return `"Hello, Alice!"`.
 
 ### ![Solution](https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white)
 [View Solution](./solutions/Solution1.js)
@@ -28,13 +32,14 @@ Provide a clear and concise description of the task for **Question 1**. For exam
 
 
 ### **Description**
-Provide a clear and concise description of the task for **Question 2**. For example, if the task involves creating a function, explain what the function should accomplish and any parameters it should accept.
+Create a function `sum` that takes two numbers as parameters and returns their sum. For example, if the inputs are `5` and `3`, the function should return `8`.
 
 ### **Hint**
-![Hint](https://img.shields.io/badge/Hint:-blue) Provide useful hints or tips for solving **Question 2**. For instance, suggest key methods or concepts to consider.
+![Hint](https://img.shields.io/badge/Hint:-blue) You can simply add the two parameters together using the `+` operator.
 
 ### **Expected Output**
-![Output](https://img.shields.io/badge/Output:-blue) Describe the expected result or output of **Question 2**. Specify what the function or solution should return or how it should behave.
+![Output](https://img.shields.io/badge/Output:-blue) 
+The function `sum(5, 3)` should return `8`.
 
 ### ![Solution](https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white)
 [View Solution](./solutions/Solution2.js)
@@ -50,13 +55,14 @@ Provide a clear and concise description of the task for **Question 2**. For exam
 
 
 ### **Description**
-Provide a clear and concise description of the task for **Question 3**. For example, if the task involves creating a function, explain what the function should accomplish and any parameters it should accept.
+Write a function `isEven` that checks if a given number is even. The function should return `true` if the number is even, and `false` otherwise.
 
 ### **Hint**
-![Hint](https://img.shields.io/badge/Hint:-blue) Provide useful hints or tips for solving **Question 3**. For instance, suggest key methods or concepts to consider.
+![Hint](https://img.shields.io/badge/Hint:-blue) You can use the modulo operator `%` to check if a number is divisible by 2.
 
 ### **Expected Output**
-![Output](https://img.shields.io/badge/Output:-blue) Describe the expected result or output of **Question 3**. Specify what the function or solution should return or how it should behave.
+![Output](https://img.shields.io/badge/Output:-blue) 
+The function `isEven(4)` should return `true`, and `isEven(7)` should return `false`.
 
 ### ![Solution](https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white)
 [View Solution](./solutions/Solution3.js)

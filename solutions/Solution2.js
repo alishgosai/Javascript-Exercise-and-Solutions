@@ -1,4 +1,11 @@
-
 // Solution for Question 2
-// Write your solution for Question 2 here
-  
+
+function sum(a, b) {
+
+  return a + b;
+
+}
+
+console.log(sum(1, 1));       // 2
+console.log(sum(1000, 999));  //1999
+
