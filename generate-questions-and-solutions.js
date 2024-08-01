@@ -76,22 +76,32 @@ function getFileIndex(filename, type, ext) {
 
 // Function to generate content for question files
 function generateQuestionContent(index) {
+  const repoLink = 'https://github.com/alishgosai/Javascript-Exercise-and-Solutions';
+  
   return `
+
+
 ## Question ${index}
+[![Question ${index}](https://img.shields.io/badge/Question-${index}-purple?style=for-the-badge&logoSize=60)](${repoLink})    
 
-### Description
-Write the question description here for question ${index}. For example, describe a real-world problem that can be solved with JavaScript.
 
-### Hint
-Provide a hint for solving question ${index}. It could be a suggestion or guidance to help solve the problem.
+### **Description**
+Provide a clear and concise description of the task for **Question ${index}**. For example, if the task involves creating a function, explain what the function should accomplish and any parameters it should accept.
 
-### Expected Outcome
-Describe the expected outcome for question ${index}. What should the solution achieve or return?
+### **Hint**
+![Hint](https://img.shields.io/badge/Hint:-blue) Provide useful hints or tips for solving **Question ${index}**. For instance, suggest key methods or concepts to consider.
 
-### Solution
+### **Expected Output**
+![Output](https://img.shields.io/badge/Output:-blue) Describe the expected result or output of **Question ${index}**. Specify what the function or solution should return or how it should behave.
+
+### ![Solution](https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white)
 [View Solution](./${solutionsDir}/Solution${index}.js)
-  `;
+
+---
+
+`
 }
+
 
 // Function to generate content for solution files
 function generateSolutionContent(index) {
