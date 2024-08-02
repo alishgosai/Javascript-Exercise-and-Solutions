@@ -6,13 +6,14 @@
 
 
 ### **Description**
-Provide a clear and concise description of the task for **Question 4**. For example, if the task involves creating a function, explain what the function should accomplish and any parameters it should accept.
+Create a function `reverseString` that takes a string as input and returns the string reversed. For example, if the input is `"hello"`, the function should return `"olleh"`.
 
 ### **Hint**
-![Hint](https://img.shields.io/badge/Hint:-blue) Provide useful hints or tips for solving **Question 4**. For instance, suggest key methods or concepts to consider.
+![Hint](https://img.shields.io/badge/Hint:-blue) You can use the `split`, `reverse`, and `join` methods on strings.
 
 ### **Expected Output**
-![Output](https://img.shields.io/badge/Output:-blue) Describe the expected result or output of **Question 4**. Specify what the function or solution should return or how it should behave.
+![Output](https://img.shields.io/badge/Output:-blue) 
+The function `reverseString("hello")` should return `"olleh"`.
 
 ### ![Solution](https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white)
 [View Solution](./solutions/Solution4.js)

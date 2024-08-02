@@ -1,6 +1,11 @@
+
 # JavaScript Questions and Solutions
 
+---
 ### Developed by [Alish Gosai](https://github.com/alishgosai)
+
+---
+---
 
   
 ## Question 1

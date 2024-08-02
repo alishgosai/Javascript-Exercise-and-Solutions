@@ -6,13 +6,14 @@
 
 
 ### **Description**
-Provide a clear and concise description of the task for **Question 6**. For example, if the task involves creating a function, explain what the function should accomplish and any parameters it should accept.
+Create a function `multiplyArray` that takes an array of numbers and returns the product of all the numbers. For example, for the array `[2, 3, 4]`, the function should return `24`.
 
 ### **Hint**
-![Hint](https://img.shields.io/badge/Hint:-blue) Provide useful hints or tips for solving **Question 6**. For instance, suggest key methods or concepts to consider.
+![Hint](https://img.shields.io/badge/Hint:-blue) You can use a loop to multiply all the elements of the array together.
 
 ### **Expected Output**
-![Output](https://img.shields.io/badge/Output:-blue) Describe the expected result or output of **Question 6**. Specify what the function or solution should return or how it should behave.
+![Output](https://img.shields.io/badge/Output:-blue) 
+The function `multiplyArray([2, 3, 4])` should return `24`.
 
 ### ![Solution](https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white)
 [View Solution](./solutions/Solution6.js)

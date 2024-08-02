@@ -86,6 +86,7 @@ function generateQuestionContent(index) {
 
 
 ### **Description**
+Question for day${index} comming soon.
 Provide a clear and concise description of the task for **Question ${index}**. For example, if the task involves creating a function, explain what the function should accomplish and any parameters it should accept.
 
 ### **Hint**
