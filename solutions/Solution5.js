@@ -12,3 +12,4 @@ function countVowels(str) {
 
 console.log(countVowels("hello")); // 2
 console.log(countVowels("Alish")); // 2
+
