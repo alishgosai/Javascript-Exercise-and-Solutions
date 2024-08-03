@@ -492,3 +492,252 @@ The function `getPerfectAttendance([{ name: 'Alice', attendance: 100 }, { name: 
 
 ---
 
+
+
+
+
+## Question 21
+[![Question 21](https://img.shields.io/badge/Question-21-purple?style=for-the-badge&logoSize=60)](https://github.com/alishgosai/Javascript-Exercise-and-Solutions)    
+
+
+### **Description**
+You are developing a user profile page where users can update their profile information. Write a function that validates the user's input for an `email` address and a `phone number`. The `email` should follow a standard format, and the `phone number` should contain exactly `10 digits`. Log messages indicating whether each input is valid.
+
+### **Hint**
+![Hint](https://img.shields.io/badge/Hint:-blue)
+Use regular expressions to validate the `email` address and check the length of the `phone number`.
+
+### **Expected Output**
+![Output](https://img.shields.io/badge/Output:-blue)
+The function should log whether the `email` address and `phone number` are valid.
+
+
+### ![Solution](https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white)
+[View Solution](https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution21.js)
+
+---
+
+
+
+
+
+## Question 22
+[![Question 22](https://img.shields.io/badge/Question-22-purple?style=for-the-badge&logoSize=60)](https://github.com/alishgosai/Javascript-Exercise-and-Solutions)    
+
+
+### **Description**
+You are developing a user profile page where users can update their profile information. Write a function that validates the user's input for an `email` address and a `phone number`. The `email` should follow a standard format, and the `phone number` should contain exactly `10 digits`. Log messages indicating whether each input is valid.
+
+### **Hint**
+![Hint](https://img.shields.io/badge/Hint:-blue)
+Use regular expressions to validate the `email` address and check the length of the `phone number`.
+
+### **Expected Output**
+![Output](https://img.shields.io/badge/Output:-blue)
+The function should log whether the `email` address and `phone number` are valid.
+
+
+### ![Solution](https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white)
+[View Solution](https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution22.js)
+
+---
+
+
+
+
+
+## Question 23
+[![Question 23](https://img.shields.io/badge/Question-23-purple?style=for-the-badge&logoSize=60)](https://github.com/alishgosai/Javascript-Exercise-and-Solutions)    
+
+
+### **Description**
+You are working on a file management system. Write a function that takes an array of `file sizes` (in megabytes) and returns an array of file sizes that exceed a specified `size limit`.
+
+### **Hint**
+![Hint](https://img.shields.io/badge/Hint:-blue)
+Use array methods to filter the file sizes based on the `size limit`.
+
+### **Expected Output**
+![Output](https://img.shields.io/badge/Output:-blue)
+The function should return an array of file sizes that exceed the `size limit`.
+
+
+### ![Solution](https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white)
+[View Solution](https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution23.js)
+
+---
+
+
+
+
+
+## Question 24
+[![Question 24](https://img.shields.io/badge/Question-24-purple?style=for-the-badge&logoSize=60)](https://github.com/alishgosai/Javascript-Exercise-and-Solutions)    
+
+
+### **Description**
+You are developing a budgeting tool. Write a function that calculates the `total expenses` and `savings` based on an array of `expense` and `income` amounts. The function should return an object with the `total expenses`, `total income`, and `net savings` (income minus expenses).
+
+### **Hint**
+![Hint](https://img.shields.io/badge/Hint:-blue)
+Sum the `expenses` and `income` arrays and compute the `net savings`.
+
+### **Expected Output**
+![Output](https://img.shields.io/badge/Output:-blue)
+The function should return an object with `total expenses`, `total income`, and `net savings`.
+
+
+### ![Solution](https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white)
+[View Solution](https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution24.js)
+
+---
+
+
+
+
+
+## Question 25
+[![Question 25](https://img.shields.io/badge/Question-25-purple?style=for-the-badge&logoSize=60)](https://github.com/alishgosai/Javascript-Exercise-and-Solutions)    
+
+
+### **Description**
+You are creating a basic library system. Write a function that takes an array of `book objects`, each with a `title`, `author`, and `publication year`, and returns the books published after a specified `year`.
+
+### **Hint**
+![Hint](https://img.shields.io/badge/Hint:-blue)
+Use array methods to filter books based on the `publication year`.
+
+### **Expected Output**
+![Output](https://img.shields.io/badge/Output:-blue)
+The function should return an array of books published after the specified `year`.
+
+
+### ![Solution](https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white)
+[View Solution](https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution25.js)
+
+---
+
+
+
+
+
+## Question 26
+[![Question 26](https://img.shields.io/badge/Question-26-purple?style=for-the-badge&logoSize=60)](https://github.com/alishgosai/Javascript-Exercise-and-Solutions)    
+
+
+### **Description**
+You are developing a simple weather app. Write a function that converts a temperature from `Fahrenheit` to `Celsius` and returns the result. The function should take a temperature in `Fahrenheit` as input and use the formula `C = (F - 32) * 5/9` for the conversion.
+
+### **Hint**
+![Hint](https://img.shields.io/badge/Hint:-blue)
+Apply the formula for `Fahrenheit` to `Celsius` conversion.
+
+### **Expected Output**
+![Output](https://img.shields.io/badge/Output:-blue)
+The function should return the temperature in `Celsius`.
+
+### ![Solution](https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white)
+[View Solution](https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution26.js)
+
+---
+
+
+
+
+
+## Question 27
+[![Question 27](https://img.shields.io/badge/Question-27-purple?style=for-the-badge&logoSize=60)](https://github.com/alishgosai/Javascript-Exercise-and-Solutions)    
+
+
+### **Description**
+You are working on a content management system. Write a script that takes an array of `article titles` and checks if any title contains the keyword `JavaScript`. Log a message indicating which titles contain the keyword.
+
+### **Hint**
+![Hint](https://img.shields.io/badge/Hint:-blue)
+Use array methods to check each title for the `JavaScript` keyword.
+
+### **Expected Output**
+![Output](https://img.shields.io/badge/Output:-blue)
+The script should log which `article titles` contain the `JavaScript` keyword.
+
+
+### ![Solution](https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white)
+[View Solution](https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution27.js)
+
+---
+
+
+
+
+
+## Question 28
+[![Question 28](https://img.shields.io/badge/Question-28-purple?style=for-the-badge&logoSize=60)](https://github.com/alishgosai/Javascript-Exercise-and-Solutions)    
+
+
+### **Description**
+You are building a simple financial report generator. Write a function that calculates the `total` and `average` amount of transactions from an array of `transaction amounts`. The function should return an object with the `total` and `average` values.
+
+### **Hint**
+![Hint](https://img.shields.io/badge/Hint:-blue)
+Sum the `transactions` and calculate the `average` using array methods.
+
+### **Expected Output**
+![Output](https://img.shields.io/badge/Output:-blue)
+The function should return an object with `total` and `average` transaction amounts.
+
+
+### ![Solution](https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white)
+[View Solution](https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution28.js)
+
+---
+
+
+
+
+
+## Question 29
+[![Question 29](https://img.shields.io/badge/Question-29-purple?style=for-the-badge&logoSize=60)](https://github.com/alishgosai/Javascript-Exercise-and-Solutions)    
+
+
+### **Description**
+You are creating a contact list application. Write a function that takes an array of `contact objects` with `name` and `phone number` properties and returns an array of `contact names` whose `phone number` starts with a specific `area code`.
+
+### **Hint**
+![Hint](https://img.shields.io/badge/Hint:-blue)
+Use array methods to filter contacts based on the `phone number` prefix.
+
+### **Expected Output**
+![Output](https://img.shields.io/badge/Output:-blue)
+The function should return an array of `contact names` with the specified `area code`.
+
+
+### ![Solution](https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white)
+[View Solution](https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution29.js)
+
+---
+
+
+
+
+
+## Question 30
+[![Question 30](https://img.shields.io/badge/Question-30-purple?style=for-the-badge&logoSize=60)](https://github.com/alishgosai/Javascript-Exercise-and-Solutions)    
+
+
+### **Description**
+You are developing a task management system. Write a function that takes an array of `task objects`, each with a `due date` and a `status` (completed or not), and returns an array of tasks that are `overdue` (i.e., have a `due date` before today and are not completed).
+
+### **Hint**
+![Hint](https://img.shields.io/badge/Hint:-blue)
+Use `date comparisons` and array methods to filter overdue tasks.
+
+### **Expected Output**
+![Output](https://img.shields.io/badge/Output:-blue)
+The function should return an array of `overdue tasks`.
+
+
+### ![Solution](https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white)
+[View Solution](https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution30.js)
+
+---
+
