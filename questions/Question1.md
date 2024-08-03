@@ -2,11 +2,15 @@
 # JavaScript Questions and Solutions
 
 ---
-### Developed by [Alish Gosai](https://github.com/alishgosai)
+## Developed by [Alish Gosai](https://github.com/alishgosai)
+
+### Questions and Solutions by: [Alish Gosai](https://github.com/alishgosai) & [Alish Pawn](https://github.com/alishpawn1)
+
 
 ---
 ---
 
+# JavaScript Exercise Questions
   
 ## Question 1
 [![Question 1](https://img.shields.io/badge/Question-1-purple?style=for-the-badge&logoSize=60)]()    
