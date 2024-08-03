@@ -316,3 +316,179 @@ The function `calculateAverageRating([5, 4, 3, 5, 4])` should return `4.2`.
 
 ---
 
+
+
+
+
+## Question 14
+[![Question 14](https://img.shields.io/badge/Question-14-purple?style=for-the-badge&logoSize=60)](https://github.com/alishgosai/Javascript-Exercise-and-Solutions)    
+
+
+### **Description**
+You are building a weather application and need to convert temperatures from Fahrenheit to Celsius. Write a function that takes a temperature in Fahrenheit and returns the equivalent temperature in Celsius. This will allow users to view temperature data in their preferred unit.
+
+### **Hint**
+![Hint](https://img.shields.io/badge/Hint:-blue)
+Use the conversion formula C = (F - 32) * 5/9 to calculate Celsius.
+
+### **Expected Output**
+![Output](https://img.shields.io/badge/Output:-blue)
+The function `convertToFahrenheit(68)` should return `20`.
+
+### ![Solution](https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white)
+[View Solution](https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution14.js)
+
+---
+
+
+
+
+
+## Question 15
+[![Question 15](https://img.shields.io/badge/Question-15-purple?style=for-the-badge&logoSize=60)](https://github.com/alishgosai/Javascript-Exercise-and-Solutions)    
+
+
+### **Description**
+You are developing a financial application that tracks daily expenses. Write a function that takes an array of expense objects, each with a date and amount property, and returns the total amount spent. This will help users manage their finances by providing a summary of their daily spending.
+
+### **Hint**
+![Hint](https://img.shields.io/badge/Hint:-blue)
+Sum the amount property of each expense object to get the total.
+
+### **Expected Output**
+![Output](https://img.shields.io/badge/Output:-blue)
+The function `calculateTotalExpenses([{ date: '2023-01-01', amount: 50 }, { date: '2023-01-02', amount: 30 }])` should return `80`.
+
+![Output](https://img.shields.io/badge/Output:-blue)
+Describe the expected result or output of **Question 15**. Specify what the function or solution should return or how it should behave.
+
+### ![Solution](https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white)
+[View Solution](https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution15.js)
+
+---
+
+
+
+
+
+## Question 16
+[![Question 16](https://img.shields.io/badge/Question-16-purple?style=for-the-badge&logoSize=60)](https://github.com/alishgosai/Javascript-Exercise-and-Solutions)    
+
+
+### **Description**
+Question for day16 comming soon.
+Provide a clear and concise description of the task for **Question 16**. For example, if the task involves creating a function, explain what the function should accomplish and any parameters it should accept.
+
+### **Hint**
+![Hint](https://img.shields.io/badge/Hint:-blue)
+Provide useful hints or tips for solving **Question 16**. For instance, suggest key methods or concepts to consider.
+
+### **Expected Output**
+![Output](https://img.shields.io/badge/Output:-blue)
+Describe the expected result or output of **Question 16**. Specify what the function or solution should return or how it should behave.
+
+### ![Solution](https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white)
+[View Solution](https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution16.js)
+
+---
+
+
+
+
+
+## Question 17
+[![Question 17](https://img.shields.io/badge/Question-17-purple?style=for-the-badge&logoSize=60)](https://github.com/alishgosai/Javascript-Exercise-and-Solutions)    
+
+
+### **Description**
+Question for day17 comming soon.
+Provide a clear and concise description of the task for **Question 17**. For example, if the task involves creating a function, explain what the function should accomplish and any parameters it should accept.
+
+### **Hint**
+![Hint](https://img.shields.io/badge/Hint:-blue)
+Provide useful hints or tips for solving **Question 17**. For instance, suggest key methods or concepts to consider.
+
+### **Expected Output**
+![Output](https://img.shields.io/badge/Output:-blue)
+Describe the expected result or output of **Question 17**. Specify what the function or solution should return or how it should behave.
+
+### ![Solution](https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white)
+[View Solution](https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution17.js)
+
+---
+
+
+
+
+
+## Question 18
+[![Question 18](https://img.shields.io/badge/Question-18-purple?style=for-the-badge&logoSize=60)](https://github.com/alishgosai/Javascript-Exercise-and-Solutions)    
+
+
+### **Description**
+Question for day18 comming soon.
+Provide a clear and concise description of the task for **Question 18**. For example, if the task involves creating a function, explain what the function should accomplish and any parameters it should accept.
+
+### **Hint**
+![Hint](https://img.shields.io/badge/Hint:-blue)
+Provide useful hints or tips for solving **Question 18**. For instance, suggest key methods or concepts to consider.
+
+### **Expected Output**
+![Output](https://img.shields.io/badge/Output:-blue)
+Describe the expected result or output of **Question 18**. Specify what the function or solution should return or how it should behave.
+
+### ![Solution](https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white)
+[View Solution](https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution18.js)
+
+---
+
+
+
+
+
+## Question 19
+[![Question 19](https://img.shields.io/badge/Question-19-purple?style=for-the-badge&logoSize=60)](https://github.com/alishgosai/Javascript-Exercise-and-Solutions)    
+
+
+### **Description**
+Question for day19 comming soon.
+Provide a clear and concise description of the task for **Question 19**. For example, if the task involves creating a function, explain what the function should accomplish and any parameters it should accept.
+
+### **Hint**
+![Hint](https://img.shields.io/badge/Hint:-blue)
+Provide useful hints or tips for solving **Question 19**. For instance, suggest key methods or concepts to consider.
+
+### **Expected Output**
+![Output](https://img.shields.io/badge/Output:-blue)
+Describe the expected result or output of **Question 19**. Specify what the function or solution should return or how it should behave.
+
+### ![Solution](https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white)
+[View Solution](https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution19.js)
+
+---
+
+
+
+
+
+## Question 20
+[![Question 20](https://img.shields.io/badge/Question-20-purple?style=for-the-badge&logoSize=60)](https://github.com/alishgosai/Javascript-Exercise-and-Solutions)    
+
+
+### **Description**
+Question for day20 comming soon.
+Provide a clear and concise description of the task for **Question 20**. For example, if the task involves creating a function, explain what the function should accomplish and any parameters it should accept.
+
+### **Hint**
+![Hint](https://img.shields.io/badge/Hint:-blue)
+Provide useful hints or tips for solving **Question 20**. For instance, suggest key methods or concepts to consider.
+
+### **Expected Output**
+![Output](https://img.shields.io/badge/Output:-blue)
+Describe the expected result or output of **Question 20**. Specify what the function or solution should return or how it should behave.
+
+### ![Solution](https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white)
+[View Solution](https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution20.js)
+
+---
+
