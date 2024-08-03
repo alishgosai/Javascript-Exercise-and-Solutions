@@ -16,7 +16,7 @@ Write a function `countVowels` that counts the number of vowels in a given strin
 The function `countVowels("hello")` should return `2`.
 
 ### ![Solution](https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white)
-[View Solution](./solutions/Solution5.js)
+[View Solution](https://github.com/alishgosai/Javascript-Exercise-and-Solutions/solutions/Solution5.js)
 
 ---
 

@@ -24,7 +24,7 @@ You can use string concatenation to combine `"Hello, "` with the input name and 
 The function `greet("Alish")` should return `"Hello, Alish!"`.
 
 ### ![Solution](https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white)
-[View Solution](./solutions/Solution1.js)
+[View Solution](https://github.com/alishgosai/Javascript-Exercise-and-Solutions/solutions/Solution1.js)
 
 ---
 
@@ -47,7 +47,7 @@ Create a function `sum` that takes two numbers as parameters and returns their s
 The function `sum(5, 3)` should return `8`.
 
 ### ![Solution](https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white)
-[View Solution](./solutions/Solution2.js)
+[View Solution](https://github.com/alishgosai/Javascript-Exercise-and-Solutions/solutions/Solution2.js)
 
 ---
 
@@ -70,7 +70,7 @@ Write a function `isEven` that checks if a given number is even. The function sh
 The function `isEven(4)` should return `true`, and `isEven(7)` should return `false`.
 
 ### ![Solution](https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white)
-[View Solution](./solutions/Solution3.js)
+[View Solution](https://github.com/alishgosai/Javascript-Exercise-and-Solutions/solutions/Solution3.js)
 
 ---
 
@@ -93,7 +93,7 @@ Create a function `reverseString` that takes a string as input and returns the s
 The function `reverseString("hello")` should return `"olleh"`.
 
 ### ![Solution](https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white)
-[View Solution](./solutions/Solution4.js)
+[View Solution](https://github.com/alishgosai/Javascript-Exercise-and-Solutions/solutions/Solution4.js)
 
 ---
 
@@ -116,7 +116,7 @@ Write a function `countVowels` that counts the number of vowels in a given strin
 The function `countVowels("hello")` should return `2`.
 
 ### ![Solution](https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white)
-[View Solution](./solutions/Solution5.js)
+[View Solution](https://github.com/alishgosai/Javascript-Exercise-and-Solutions/solutions/Solution5.js)
 
 ---
 
@@ -139,7 +139,7 @@ Create a function `multiplyArray` that takes an array of numbers and returns the
 The function `multiplyArray([2, 3, 4])` should return `24`.
 
 ### ![Solution](https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white)
-[View Solution](./solutions/Solution6.js)
+[View Solution](https://github.com/alishgosai/Javascript-Exercise-and-Solutions/solutions/Solution6.js)
 
 ---
 
@@ -163,7 +163,7 @@ You can use a loop to compare each number and keep track of the maximum.
 The function `findMax([1, 3, 5, 2])` should return `5`.
 
 ### ![Solution](https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white)
-[View Solution](./solutions/Solution7.js)
+[View Solution](https://github.com/alishgosai/Javascript-Exercise-and-Solutions/solutions/Solution7.js)
 
 ---
 
@@ -187,7 +187,7 @@ You can compare the string with its reversed version.
 The function `isPalindrome("madam")` should return `true`, and `isPalindrome("hello")` should return `false`.
 
 ### ![Solution](https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white)
-[View Solution](./solutions/Solution8.js)
+[View Solution](https://github.com/alishgosai/Javascript-Exercise-and-Solutions/solutions/Solution8.js)
 
 ---
 
@@ -211,7 +211,7 @@ You can use the `filter` method to create a new array with only even numbers.
 The function `filterEvens([1, 2, 3, 4, 5])` should return `[2, 4]`.
 
 ### ![Solution](https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white)
-[View Solution](./solutions/Solution9.js)
+[View Solution](https://github.com/alishgosai/Javascript-Exercise-and-Solutions/solutions/Solution9.js)
 
 ---
 
@@ -235,7 +235,82 @@ You can use a `Set` to remove duplicates from the array.
 The function `removeDuplicates([1, 2, 2, 3])` should return `[1, 2, 3]`.
 
 ### ![Solution](https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white)
-[View Solution](./solutions/Solution10.js)
+[View Solution](https://github.com/alishgosai/Javascript-Exercise-and-Solutions/solutions/Solution10.js)
+
+---
+
+
+
+
+
+## Question 11
+[![Question 11](https://img.shields.io/badge/Question-11-purple?style=for-the-badge&logoSize=60)](https://github.com/alishgosai/Javascript-Exercise-and-Solutions)    
+
+
+### **Description**
+You are building a library management system where you need to keep track of the books available for lending. Write a function `getAvailableBooks` that takes an array of book objects, each with a `title` and `isAvailable` property, and returns an array of titles of books that are currently available.
+
+### **Hint**
+![Hint](https://img.shields.io/badge/Hint:-blue)
+Filter the array of books based on the `isAvailable` property.
+
+### **Expected Output**
+![Output](https://img.shields.io/badge/Output:-blue)
+The function `getAvailableBooks([{ title: 'Book 1', isAvailable: true }, { title: 'Book 2', isAvailable: false }])` should return `['Book 1']`.
+
+
+### ![Solution](https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white)
+[View Solution](https://github.com/alishgosai/Javascript-Exercise-and-Solutions/solutions/Solution11.js)
+
+---
+
+
+
+
+
+## Question 12
+[![Question 12](https://img.shields.io/badge/Question-12-purple?style=for-the-badge&logoSize=60)](https://github.com/alishgosai/Javascript-Exercise-and-Solutions)    
+
+
+### **Description**
+Question for day12 comming soon.
+Provide a clear and concise description of the task for **Question 12**. For example, if the task involves creating a function, explain what the function should accomplish and any parameters it should accept.
+
+### **Hint**
+![Hint](https://img.shields.io/badge/Hint:-blue)
+Provide useful hints or tips for solving **Question 12**. For instance, suggest key methods or concepts to consider.
+
+### **Expected Output**
+![Output](https://img.shields.io/badge/Output:-blue)
+Describe the expected result or output of **Question 12**. Specify what the function or solution should return or how it should behave.
+
+### ![Solution](https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white)
+[View Solution](https://github.com/alishgosai/Javascript-Exercise-and-Solutions/solutions/Solution12.js)
+
+---
+
+
+
+
+
+## Question 13
+[![Question 13](https://img.shields.io/badge/Question-13-purple?style=for-the-badge&logoSize=60)](https://github.com/alishgosai/Javascript-Exercise-and-Solutions)    
+
+
+### **Description**
+Question for day13 comming soon.
+Provide a clear and concise description of the task for **Question 13**. For example, if the task involves creating a function, explain what the function should accomplish and any parameters it should accept.
+
+### **Hint**
+![Hint](https://img.shields.io/badge/Hint:-blue)
+Provide useful hints or tips for solving **Question 13**. For instance, suggest key methods or concepts to consider.
+
+### **Expected Output**
+![Output](https://img.shields.io/badge/Output:-blue)
+Describe the expected result or output of **Question 13**. Specify what the function or solution should return or how it should behave.
+
+### ![Solution](https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white)
+[View Solution](https://github.com/alishgosai/Javascript-Exercise-and-Solutions/solutions/Solution13.js)
 
 ---
 

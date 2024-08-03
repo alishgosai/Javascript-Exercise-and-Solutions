@@ -16,7 +16,7 @@ Create a function `sum` that takes two numbers as parameters and returns their s
 The function `sum(5, 3)` should return `8`.
 
 ### ![Solution](https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white)
-[View Solution](./solutions/Solution2.js)
+[View Solution](https://github.com/alishgosai/Javascript-Exercise-and-Solutions/solutions/Solution2.js)
 
 ---
 
