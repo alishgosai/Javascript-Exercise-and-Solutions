@@ -376,16 +376,16 @@ Describe the expected result or output of **Question 15**. Specify what the func
 
 
 ### **Description**
-Question for day16 comming soon.
-Provide a clear and concise description of the task for **Question 16**. For example, if the task involves creating a function, explain what the function should accomplish and any parameters it should accept.
+You are creating a contact list application where users can search for contacts by name. Write a function that takes an array of contact objects, each with a name and phoneNumber property, and a search term. The function should return an array of contacts whose names include the search term. This will allow users to quickly find and retrieve contact information.
 
 ### **Hint**
 ![Hint](https://img.shields.io/badge/Hint:-blue)
-Provide useful hints or tips for solving **Question 16**. For instance, suggest key methods or concepts to consider.
+Use the `includes` method to check if the contact's name contains the search term.
 
 ### **Expected Output**
 ![Output](https://img.shields.io/badge/Output:-blue)
-Describe the expected result or output of **Question 16**. Specify what the function or solution should return or how it should behave.
+The function `searchContacts([{ name: 'Alice', phoneNumber: '1234567890' }, { name: 'Bob', phoneNumber: '0987654321' }], 'Ali')` should return `[{ name: 'Alice', phoneNumber: '1234567890' }]`.
+
 
 ### ![Solution](https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white)
 [View Solution](https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution16.js)
@@ -401,16 +401,16 @@ Describe the expected result or output of **Question 16**. Specify what the func
 
 
 ### **Description**
-Question for day17 comming soon.
-Provide a clear and concise description of the task for **Question 17**. For example, if the task involves creating a function, explain what the function should accomplish and any parameters it should accept.
+You are working on an e-commerce platform and need to apply a discount to a list of product prices. Write a function that takes an array of product prices and a discount percentage, and returns an array of the discounted prices. This will help in displaying the final prices after applying discounts during sales or promotions.
 
 ### **Hint**
 ![Hint](https://img.shields.io/badge/Hint:-blue)
-Provide useful hints or tips for solving **Question 17**. For instance, suggest key methods or concepts to consider.
+Apply the discount percentage to each price to calculate the discounted price.
 
 ### **Expected Output**
 ![Output](https://img.shields.io/badge/Output:-blue)
-Describe the expected result or output of **Question 17**. Specify what the function or solution should return or how it should behave.
+The function `applyDiscount([100, 200, 300], 10)` should return `[90, 180, 270]`.
+
 
 ### ![Solution](https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white)
 [View Solution](https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution17.js)
@@ -426,16 +426,16 @@ Describe the expected result or output of **Question 17**. Specify what the func
 
 
 ### **Description**
-Question for day18 comming soon.
-Provide a clear and concise description of the task for **Question 18**. For example, if the task involves creating a function, explain what the function should accomplish and any parameters it should accept.
+You are developing a simple game where the player needs to guess a random number. Write a function that generates a random integer between a given minimum and maximum value (inclusive). This will create an element of chance in the game, making it more engaging for the player.
 
 ### **Hint**
 ![Hint](https://img.shields.io/badge/Hint:-blue)
-Provide useful hints or tips for solving **Question 18**. For instance, suggest key methods or concepts to consider.
+Use `Math.random()` to generate a random number and scale it to the desired range.
 
 ### **Expected Output**
 ![Output](https://img.shields.io/badge/Output:-blue)
-Describe the expected result or output of **Question 18**. Specify what the function or solution should return or how it should behave.
+The function `generateRandomNumber(1, 10)` should return a random integer between 1 and 10.
+
 
 ### ![Solution](https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white)
 [View Solution](https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution18.js)
@@ -451,16 +451,16 @@ Describe the expected result or output of **Question 18**. Specify what the func
 
 
 ### **Description**
-Question for day19 comming soon.
-Provide a clear and concise description of the task for **Question 19**. For example, if the task involves creating a function, explain what the function should accomplish and any parameters it should accept.
+You are building a reminder application that sends notifications at specified times. Write a function that takes an array of reminder times (in milliseconds) and a current time, and returns an array of reminders that are due (i.e., times less than or equal to the current time). This will help in notifying users of tasks that need immediate attention.
 
 ### **Hint**
 ![Hint](https://img.shields.io/badge/Hint:-blue)
-Provide useful hints or tips for solving **Question 19**. For instance, suggest key methods or concepts to consider.
+Filter the array of reminders based on the current time.
 
 ### **Expected Output**
 ![Output](https://img.shields.io/badge/Output:-blue)
-Describe the expected result or output of **Question 19**. Specify what the function or solution should return or how it should behave.
+The function `getDueReminders([1628257325000, 1628260925000], 1628257325000)` should return `[1628257325000]`.
+
 
 ### ![Solution](https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white)
 [View Solution](https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution19.js)
@@ -476,16 +476,16 @@ Describe the expected result or output of **Question 19**. Specify what the func
 
 
 ### **Description**
-Question for day20 comming soon.
-Provide a clear and concise description of the task for **Question 20**. For example, if the task involves creating a function, explain what the function should accomplish and any parameters it should accept.
+You are creating a student attendance system. Write a function that takes an array of student objects, each with a name and attendance property, and returns the names of students who have perfect attendance (i.e., attendance is 100%). This will help in identifying and rewarding students who have maintained perfect attendance.
 
 ### **Hint**
 ![Hint](https://img.shields.io/badge/Hint:-blue)
-Provide useful hints or tips for solving **Question 20**. For instance, suggest key methods or concepts to consider.
+Filter the array of students based on the attendance property.
 
 ### **Expected Output**
 ![Output](https://img.shields.io/badge/Output:-blue)
-Describe the expected result or output of **Question 20**. Specify what the function or solution should return or how it should behave.
+The function `getPerfectAttendance([{ name: 'Alice', attendance: 100 }, { name: 'Bob', attendance: 90 }])` should return `['Alice']`.
+
 
 ### ![Solution](https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white)
 [View Solution](https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution20.js)
