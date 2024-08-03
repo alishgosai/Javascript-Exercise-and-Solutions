@@ -16,7 +16,7 @@ Create a function `reverseString` that takes a string as input and returns the s
 The function `reverseString("hello")` should return `"olleh"`.
 
 ### ![Solution](https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white)
-[View Solution](https://github.com/alishgosai/Javascript-Exercise-and-Solutions/solutions/Solution4.js)
+[View Solution](https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution4.js)
 
 ---
 

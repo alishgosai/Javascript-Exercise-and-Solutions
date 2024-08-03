@@ -17,7 +17,7 @@ You can compare the string with its reversed version.
 The function `isPalindrome("madam")` should return `true`, and `isPalindrome("hello")` should return `false`.
 
 ### ![Solution](https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white)
-[View Solution](https://github.com/alishgosai/Javascript-Exercise-and-Solutions/solutions/Solution8.js)
+[View Solution](https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution8.js)
 
 ---
 

@@ -17,7 +17,7 @@ You can use a loop to compare each number and keep track of the maximum.
 The function `findMax([1, 3, 5, 2])` should return `5`.
 
 ### ![Solution](https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white)
-[View Solution](https://github.com/alishgosai/Javascript-Exercise-and-Solutions/solutions/Solution7.js)
+[View Solution](https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution7.js)
 
 ---
 

@@ -16,7 +16,7 @@ Write a function `isEven` that checks if a given number is even. The function sh
 The function `isEven(4)` should return `true`, and `isEven(7)` should return `false`.
 
 ### ![Solution](https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white)
-[View Solution](https://github.com/alishgosai/Javascript-Exercise-and-Solutions/solutions/Solution3.js)
+[View Solution](https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution3.js)
 
 ---
 

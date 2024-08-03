@@ -98,7 +98,7 @@ Provide useful hints or tips for solving **Question ${index}**. For instance, su
 Describe the expected result or output of **Question ${index}**. Specify what the function or solution should return or how it should behave.
 
 ### ![Solution](https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white)
-[View Solution](${repoLink}/${solutionsDir}/Solution${index}.js)
+[View Solution](${repoLink}/blob/master/${solutionsDir}/Solution${index}.js)
 
 ---
 

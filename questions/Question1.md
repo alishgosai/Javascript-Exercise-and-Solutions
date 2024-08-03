@@ -24,7 +24,7 @@ You can use string concatenation to combine `"Hello, "` with the input name and 
 The function `greet("Alish")` should return `"Hello, Alish!"`.
 
 ### ![Solution](https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white)
-[View Solution](https://github.com/alishgosai/Javascript-Exercise-and-Solutions/solutions/Solution1.js)
+[View Solution](https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution1.js)
 
 ---
 

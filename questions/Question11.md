@@ -18,7 +18,7 @@ The function `getAvailableBooks([{ title: 'Book 1', isAvailable: true }, { title
 
 
 ### ![Solution](https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white)
-[View Solution](https://github.com/alishgosai/Javascript-Exercise-and-Solutions/solutions/Solution11.js)
+[View Solution](https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution11.js)
 
 ---
 
