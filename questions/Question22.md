@@ -2,23 +2,27 @@
 
 
 ## Question 22
-[![Question 22](https://img.shields.io/badge/Question-22-purple?style=for-the-badge&logoSize=60)](https://github.com/alishgosai/Javascript-Exercise-and-Solutions)    
-
+<a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/questions/Question22.md" target="_blank">
+  <img src="https://img.shields.io/badge/Question-22-purple?style=for-the-badge&logoSize=60" alt="Question 22">
+</a>
 
 ### **Description**
-You are developing a user profile page where users can update their profile information. Write a function that validates the user's input for an `email` address and a `phone number`. The `email` should follow a standard format, and the `phone number` should contain exactly `10 digits`. Log messages indicating whether each input is valid.
+Question for day22 comming soon.
+Contributers to provide a clear and concise description of the task for **Question 22**.
 
 ### **Hint**
 ![Hint](https://img.shields.io/badge/Hint:-blue)
-Use regular expressions to validate the `email` address and check the length of the `phone number`.
+Provide useful hints or tips for solving **Question 22**.
 
 ### **Expected Output**
 ![Output](https://img.shields.io/badge/Output:-blue)
-The function should log whether the `email` address and `phone number` are valid.
+Describe the expected result or output of **Question 22**.
 
+### <a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution22.js" target="_blank">
+  <img src="https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white" alt="Solution">
+</a>
 
-### ![Solution](https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white)
-[View Solution](https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution22.js)
+<a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution22.js" target="_blank">View Solution</a>
 
 ---
 

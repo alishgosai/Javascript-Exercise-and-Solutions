@@ -2,22 +2,27 @@
 
 
 ## Question 10
-[![Question 10](https://img.shields.io/badge/Question-10-purple?style=for-the-badge&logoSize=60)](https://github.com/alishgosai/Javascript-Exercise-and-Solutions)    
-
+<a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/questions/Question10.md" target="_blank">
+  <img src="https://img.shields.io/badge/Question-10-purple?style=for-the-badge&logoSize=60" alt="Question 10">
+</a>
 
 ### **Description**
-Create a function `removeDuplicates` that takes an array of numbers and returns a new array with duplicates removed. For example, the array `[1, 2, 2, 3]` should become `[1, 2, 3]`.
+Question for day10 comming soon.
+Contributers to provide a clear and concise description of the task for **Question 10**.
 
 ### **Hint**
 ![Hint](https://img.shields.io/badge/Hint:-blue)
-You can use a `Set` to remove duplicates from the array.
+Provide useful hints or tips for solving **Question 10**.
 
 ### **Expected Output**
 ![Output](https://img.shields.io/badge/Output:-blue)
-The function `removeDuplicates([1, 2, 2, 3])` should return `[1, 2, 3]`.
+Describe the expected result or output of **Question 10**.
 
-### ![Solution](https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white)
-[View Solution](https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution10.js)
+### <a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution10.js" target="_blank">
+  <img src="https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white" alt="Solution">
+</a>
+
+<a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution10.js" target="_blank">View Solution</a>
 
 ---
 

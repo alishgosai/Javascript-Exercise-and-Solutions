@@ -2,21 +2,27 @@
 
 
 ## Question 3
-[![Question 3](https://img.shields.io/badge/Question-3-purple?style=for-the-badge&logoSize=60)](https://github.com/alishgosai/Javascript-Exercise-and-Solutions)    
-
+<a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/questions/Question3.md" target="_blank">
+  <img src="https://img.shields.io/badge/Question-3-purple?style=for-the-badge&logoSize=60" alt="Question 3">
+</a>
 
 ### **Description**
-Write a function `isEven` that checks if a given number is even. The function should return `true` if the number is even, and `false` otherwise.
+Question for day3 comming soon.
+Contributers to provide a clear and concise description of the task for **Question 3**.
 
 ### **Hint**
-![Hint](https://img.shields.io/badge/Hint:-blue) You can use the modulo operator `%` to check if a number is divisible by 2.
+![Hint](https://img.shields.io/badge/Hint:-blue)
+Provide useful hints or tips for solving **Question 3**.
 
 ### **Expected Output**
-![Output](https://img.shields.io/badge/Output:-blue) 
-The function `isEven(4)` should return `true`, and `isEven(7)` should return `false`.
+![Output](https://img.shields.io/badge/Output:-blue)
+Describe the expected result or output of **Question 3**.
 
-### ![Solution](https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white)
-[View Solution](https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution3.js)
+### <a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution3.js" target="_blank">
+  <img src="https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white" alt="Solution">
+</a>
+
+<a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution3.js" target="_blank">View Solution</a>
 
 ---
 

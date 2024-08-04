@@ -2,23 +2,27 @@
 
 
 ## Question 24
-[![Question 24](https://img.shields.io/badge/Question-24-purple?style=for-the-badge&logoSize=60)](https://github.com/alishgosai/Javascript-Exercise-and-Solutions)    
-
+<a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/questions/Question24.md" target="_blank">
+  <img src="https://img.shields.io/badge/Question-24-purple?style=for-the-badge&logoSize=60" alt="Question 24">
+</a>
 
 ### **Description**
-You are developing a budgeting tool. Write a function that calculates the `total expenses` and `savings` based on an array of `expense` and `income` amounts. The function should return an object with the `total expenses`, `total income`, and `net savings` (income minus expenses).
+Question for day24 comming soon.
+Contributers to provide a clear and concise description of the task for **Question 24**.
 
 ### **Hint**
 ![Hint](https://img.shields.io/badge/Hint:-blue)
-Sum the `expenses` and `income` arrays and compute the `net savings`.
+Provide useful hints or tips for solving **Question 24**.
 
 ### **Expected Output**
 ![Output](https://img.shields.io/badge/Output:-blue)
-The function should return an object with `total expenses`, `total income`, and `net savings`.
+Describe the expected result or output of **Question 24**.
 
+### <a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution24.js" target="_blank">
+  <img src="https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white" alt="Solution">
+</a>
 
-### ![Solution](https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white)
-[View Solution](https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution24.js)
+<a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution24.js" target="_blank">View Solution</a>
 
 ---
 

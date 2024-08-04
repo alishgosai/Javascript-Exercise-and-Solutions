@@ -131,6 +131,7 @@ Describe the expected result or output of **Question ${index}**.
 ### <a href="${repoLink}/blob/master/${solutionsDir}/Solution${index}.js" target="_blank">
   <img src="https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white" alt="Solution">
 </a>
+
 <a href="${repoLink}/blob/master/${solutionsDir}/Solution${index}.js" target="_blank">View Solution</a>
 
 ---

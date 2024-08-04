@@ -2,23 +2,27 @@
 
 
 ## Question 27
-[![Question 27](https://img.shields.io/badge/Question-27-purple?style=for-the-badge&logoSize=60)](https://github.com/alishgosai/Javascript-Exercise-and-Solutions)    
-
+<a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/questions/Question27.md" target="_blank">
+  <img src="https://img.shields.io/badge/Question-27-purple?style=for-the-badge&logoSize=60" alt="Question 27">
+</a>
 
 ### **Description**
-You are working on a content management system. Write a script that takes an array of `article titles` and checks if any title contains the keyword `JavaScript`. Log a message indicating which titles contain the keyword.
+Question for day27 comming soon.
+Contributers to provide a clear and concise description of the task for **Question 27**.
 
 ### **Hint**
 ![Hint](https://img.shields.io/badge/Hint:-blue)
-Use array methods to check each title for the `JavaScript` keyword.
+Provide useful hints or tips for solving **Question 27**.
 
 ### **Expected Output**
 ![Output](https://img.shields.io/badge/Output:-blue)
-The script should log which `article titles` contain the `JavaScript` keyword.
+Describe the expected result or output of **Question 27**.
 
+### <a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution27.js" target="_blank">
+  <img src="https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white" alt="Solution">
+</a>
 
-### ![Solution](https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white)
-[View Solution](https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution27.js)
+<a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution27.js" target="_blank">View Solution</a>
 
 ---
 

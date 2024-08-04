@@ -2,21 +2,27 @@
 
 
 ## Question 6
-[![Question 6](https://img.shields.io/badge/Question-6-purple?style=for-the-badge&logoSize=60)](https://github.com/alishgosai/Javascript-Exercise-and-Solutions)    
-
+<a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/questions/Question6.md" target="_blank">
+  <img src="https://img.shields.io/badge/Question-6-purple?style=for-the-badge&logoSize=60" alt="Question 6">
+</a>
 
 ### **Description**
-Create a function `multiplyArray` that takes an array of numbers and returns the product of all the numbers. For example, for the array `[2, 3, 4]`, the function should return `24`.
+Question for day6 comming soon.
+Contributers to provide a clear and concise description of the task for **Question 6**.
 
 ### **Hint**
-![Hint](https://img.shields.io/badge/Hint:-blue) You can use a loop to multiply all the elements of the array together.
+![Hint](https://img.shields.io/badge/Hint:-blue)
+Provide useful hints or tips for solving **Question 6**.
 
 ### **Expected Output**
-![Output](https://img.shields.io/badge/Output:-blue) 
-The function `multiplyArray([2, 3, 4])` should return `24`.
+![Output](https://img.shields.io/badge/Output:-blue)
+Describe the expected result or output of **Question 6**.
 
-### ![Solution](https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white)
-[View Solution](https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution6.js)
+### <a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution6.js" target="_blank">
+  <img src="https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white" alt="Solution">
+</a>
+
+<a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution6.js" target="_blank">View Solution</a>
 
 ---
 

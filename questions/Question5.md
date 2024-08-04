@@ -2,21 +2,27 @@
 
 
 ## Question 5
-[![Question 5](https://img.shields.io/badge/Question-5-purple?style=for-the-badge&logoSize=60)](https://github.com/alishgosai/Javascript-Exercise-and-Solutions)    
-
+<a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/questions/Question5.md" target="_blank">
+  <img src="https://img.shields.io/badge/Question-5-purple?style=for-the-badge&logoSize=60" alt="Question 5">
+</a>
 
 ### **Description**
-Write a function `countVowels` that counts the number of vowels in a given string. Vowels are `a`, `e`, `i`, `o`, and `u`. For example, the string `"hello"` contains `2` vowels.
+Question for day5 comming soon.
+Contributers to provide a clear and concise description of the task for **Question 5**.
 
 ### **Hint**
-![Hint](https://img.shields.io/badge/Hint:-blue) You can loop through the string and check if each character is a vowel.
+![Hint](https://img.shields.io/badge/Hint:-blue)
+Provide useful hints or tips for solving **Question 5**.
 
 ### **Expected Output**
 ![Output](https://img.shields.io/badge/Output:-blue)
-The function `countVowels("hello")` should return `2`.
+Describe the expected result or output of **Question 5**.
 
-### ![Solution](https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white)
-[View Solution](https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution5.js)
+### <a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution5.js" target="_blank">
+  <img src="https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white" alt="Solution">
+</a>
+
+<a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution5.js" target="_blank">View Solution</a>
 
 ---
 
