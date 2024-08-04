@@ -1,8 +1,6 @@
 ---
 layout: default
-title: README
+title: Home
 ---
-
-# Welcome to My README Page
 
 {% include_relative README.md %}
