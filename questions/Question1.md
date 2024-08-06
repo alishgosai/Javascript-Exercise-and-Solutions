@@ -1,4 +1,14 @@
 
+# JavaScript Questions and Solutions
+
+---
+## Developed by [Alish Gosai](https://github.com/alishgosai)
+
+### Questions and Solutions by: [Alish Gosai](https://github.com/alishgosai) & [Alish Pawn](https://github.com/alishpawn1)
+
+
+---
+---
 
 
 ## Question 1

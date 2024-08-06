@@ -1,14 +1,31 @@
+/* Base Styles */
 body {
   color: #e0e0e0;
   background-color: #1e1e1e;
   font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
 }
 
+/* Headings */
 h2, h3 {
   color: #f5f5f5;
   font-family: Arial, sans-serif;
+  margin-top: 1em;
+  margin-bottom: 0.5em;
 }
 
+h2 {
+  border-bottom: 1px solid #30363d;
+  padding-bottom: 0.3em;
+}
+
+h3 {
+  color: #79c0ff;
+}
+
+/* Links */
 a {
   color: #66b2ff;
   text-decoration: none;
@@ -32,6 +49,7 @@ a:hover::after {
   width: 100%;
 }
 
+/* Images */
 img {
   max-width: 100%;
   transition: transform 0.3s ease, box-shadow 0.3s ease;
@@ -42,11 +60,12 @@ img:hover {
   box-shadow: 0 6px 12px rgba(0, 0, 0, 0.4);
 }
 
+/* Flexbox Utilities */
 .center {
-  gap: 5px;
   display: flex;
-  justify-content: left;
-  align-items: left;
+  gap: 5px;
+  justify-content: center;
+  align-items: center;
   flex-direction: row;
 }
 
@@ -59,8 +78,100 @@ img:hover {
   margin-top: 10px;
 }
 
+/* Horizontal Rule */
 hr {
   border: 0;
   border-top: 1px solid #333;
   margin: 20px 0;
+}
+
+/* Code Blocks */
+code {
+  background-color: #2d333b;
+  color: #d69d85;
+  padding: 0.2em 0.4em;
+  border-radius: 6px;
+  font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, Courier, monospace;
+}
+
+pre {
+  background-color: #2d333b;
+  color: #d69d85;
+  padding: 1em;
+  border-radius: 6px;
+  overflow-x: auto;
+  font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, Courier, monospace;
+}
+
+/* Blockquote */
+blockquote {
+  border-left: 4px solid #58a6ff;
+  padding-left: 1em;
+  color: #8b949e;
+  margin: 1.5em 0;
+  background-color: #2d333b;
+  padding: 1em;
+  border-radius: 6px;
+}
+
+/* Lists */
+ul, ol {
+  margin-left: 1.5em;
+  margin-bottom: 1em;
+}
+
+ul li, ol li {
+  margin-bottom: 0.5em;
+}
+
+/* Tables */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 1em;
+}
+
+th, td {
+  border: 1px solid #333;
+  padding: 0.5em;
+  text-align: left;
+}
+
+th {
+  background-color: #2d333b;
+}
+
+td {
+  background-color: #1e1e1e;
+}
+
+/* Additional Enhancements */
+.markdown-content h1, 
+.markdown-content h2, 
+.markdown-content h3, 
+.markdown-content h4, 
+.markdown-content h5, 
+.markdown-content h6 {
+  margin: 1.5em 0 1em;
+}
+
+.markdown-content p {
+  margin: 0 0 1em;
+}
+
+.markdown-content ul, 
+.markdown-content ol {
+  padding-left: 1.5em;
+}
+
+.markdown-content pre {
+  margin: 0 0 1em;
+}
+
+.markdown-content blockquote {
+  margin: 0 0 1em;
+}
+
+.markdown-content table {
+  margin: 0 0 1em;
 }
