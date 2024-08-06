@@ -10,29 +10,25 @@
 ---
 ---
 
-
+# JavaScript Exercise Questions
+  
 ## Question 1
-<a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/questions/Question1.md" target="_blank">
-  <img src="https://img.shields.io/badge/Question-1-purple?style=for-the-badge&logoSize=60" alt="Question 1">
-</a>
+[![Question 1](https://img.shields.io/badge/Question-1-purple?style=for-the-badge&logoSize=60)]()    
+
 
 ### **Description**
-Question for day1 comming soon.
-Contributers to provide a clear and concise description of the task for **Question 1**.
+Write a function `greet` that takes a name as a parameter and returns a greeting message. For example, if the input is `"Alish"`, the function should return `"Hello, Alish!"`.
 
 ### **Hint**
-![Hint](https://img.shields.io/badge/Hint:-blue)
-Provide useful hints or tips for solving **Question 1**.
+![Hint](https://img.shields.io/badge/Hint:-blue) 
+You can use string concatenation to combine `"Hello, "` with the input name and `"!"`.
 
 ### **Expected Output**
-![Output](https://img.shields.io/badge/Output:-blue)
-Describe the expected result or output of **Question 1**.
+![Output](https://img.shields.io/badge/Output:-blue) 
+The function `greet("Alish")` should return `"Hello, Alish!"`.
 
-### <a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution1.js" target="_blank">
-  <img src="https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white" alt="Solution">
-</a>
-
-<a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution1.js" target="_blank">View Solution</a>
+### ![Solution](https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white)
+[View Solution](https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution1.js)
 
 ---
 
@@ -41,27 +37,21 @@ Describe the expected result or output of **Question 1**.
 
 
 ## Question 2
-<a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/questions/Question2.md" target="_blank">
-  <img src="https://img.shields.io/badge/Question-2-purple?style=for-the-badge&logoSize=60" alt="Question 2">
-</a>
+[![Question 2](https://img.shields.io/badge/Question-2-purple?style=for-the-badge&logoSize=60)](https://github.com/alishgosai/Javascript-Exercise-and-Solutions)    
+
 
 ### **Description**
-Question for day2 comming soon.
-Contributers to provide a clear and concise description of the task for **Question 2**.
+Create a function `sum` that takes two numbers as parameters and returns their sum. For example, if the inputs are `5` and `3`, the function should return `8`.
 
 ### **Hint**
-![Hint](https://img.shields.io/badge/Hint:-blue)
-Provide useful hints or tips for solving **Question 2**.
+![Hint](https://img.shields.io/badge/Hint:-blue) You can simply add the two parameters together using the `+` operator.
 
 ### **Expected Output**
-![Output](https://img.shields.io/badge/Output:-blue)
-Describe the expected result or output of **Question 2**.
+![Output](https://img.shields.io/badge/Output:-blue) 
+The function `sum(5, 3)` should return `8`.
 
-### <a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution2.js" target="_blank">
-  <img src="https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white" alt="Solution">
-</a>
-
-<a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution2.js" target="_blank">View Solution</a>
+### ![Solution](https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white)
+[View Solution](https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution2.js)
 
 ---
 
@@ -70,27 +60,21 @@ Describe the expected result or output of **Question 2**.
 
 
 ## Question 3
-<a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/questions/Question3.md" target="_blank">
-  <img src="https://img.shields.io/badge/Question-3-purple?style=for-the-badge&logoSize=60" alt="Question 3">
-</a>
+[![Question 3](https://img.shields.io/badge/Question-3-purple?style=for-the-badge&logoSize=60)](https://github.com/alishgosai/Javascript-Exercise-and-Solutions)    
+
 
 ### **Description**
-Question for day3 comming soon.
-Contributers to provide a clear and concise description of the task for **Question 3**.
+Write a function `isEven` that checks if a given number is even. The function should return `true` if the number is even, and `false` otherwise.
 
 ### **Hint**
-![Hint](https://img.shields.io/badge/Hint:-blue)
-Provide useful hints or tips for solving **Question 3**.
+![Hint](https://img.shields.io/badge/Hint:-blue) You can use the modulo operator `%` to check if a number is divisible by 2.
 
 ### **Expected Output**
-![Output](https://img.shields.io/badge/Output:-blue)
-Describe the expected result or output of **Question 3**.
+![Output](https://img.shields.io/badge/Output:-blue) 
+The function `isEven(4)` should return `true`, and `isEven(7)` should return `false`.
 
-### <a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution3.js" target="_blank">
-  <img src="https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white" alt="Solution">
-</a>
-
-<a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution3.js" target="_blank">View Solution</a>
+### ![Solution](https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white)
+[View Solution](https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution3.js)
 
 ---
 
@@ -99,27 +83,21 @@ Describe the expected result or output of **Question 3**.
 
 
 ## Question 4
-<a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/questions/Question4.md" target="_blank">
-  <img src="https://img.shields.io/badge/Question-4-purple?style=for-the-badge&logoSize=60" alt="Question 4">
-</a>
+[![Question 4](https://img.shields.io/badge/Question-4-purple?style=for-the-badge&logoSize=60)](https://github.com/alishgosai/Javascript-Exercise-and-Solutions)    
+
 
 ### **Description**
-Question for day4 comming soon.
-Contributers to provide a clear and concise description of the task for **Question 4**.
+Create a function `reverseString` that takes a string as input and returns the string reversed. For example, if the input is `"hello"`, the function should return `"olleh"`.
 
 ### **Hint**
-![Hint](https://img.shields.io/badge/Hint:-blue)
-Provide useful hints or tips for solving **Question 4**.
+![Hint](https://img.shields.io/badge/Hint:-blue) You can use the `split`, `reverse`, and `join` methods on strings.
 
 ### **Expected Output**
-![Output](https://img.shields.io/badge/Output:-blue)
-Describe the expected result or output of **Question 4**.
+![Output](https://img.shields.io/badge/Output:-blue) 
+The function `reverseString("hello")` should return `"olleh"`.
 
-### <a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution4.js" target="_blank">
-  <img src="https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white" alt="Solution">
-</a>
-
-<a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution4.js" target="_blank">View Solution</a>
+### ![Solution](https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white)
+[View Solution](https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution4.js)
 
 ---
 
@@ -128,27 +106,21 @@ Describe the expected result or output of **Question 4**.
 
 
 ## Question 5
-<a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/questions/Question5.md" target="_blank">
-  <img src="https://img.shields.io/badge/Question-5-purple?style=for-the-badge&logoSize=60" alt="Question 5">
-</a>
+[![Question 5](https://img.shields.io/badge/Question-5-purple?style=for-the-badge&logoSize=60)](https://github.com/alishgosai/Javascript-Exercise-and-Solutions)    
+
 
 ### **Description**
-Question for day5 comming soon.
-Contributers to provide a clear and concise description of the task for **Question 5**.
+Write a function `countVowels` that counts the number of vowels in a given string. Vowels are `a`, `e`, `i`, `o`, and `u`. For example, the string `"hello"` contains `2` vowels.
 
 ### **Hint**
-![Hint](https://img.shields.io/badge/Hint:-blue)
-Provide useful hints or tips for solving **Question 5**.
+![Hint](https://img.shields.io/badge/Hint:-blue) You can loop through the string and check if each character is a vowel.
 
 ### **Expected Output**
 ![Output](https://img.shields.io/badge/Output:-blue)
-Describe the expected result or output of **Question 5**.
+The function `countVowels("hello")` should return `2`.
 
-### <a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution5.js" target="_blank">
-  <img src="https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white" alt="Solution">
-</a>
-
-<a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution5.js" target="_blank">View Solution</a>
+### ![Solution](https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white)
+[View Solution](https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution5.js)
 
 ---
 
@@ -157,27 +129,21 @@ Describe the expected result or output of **Question 5**.
 
 
 ## Question 6
-<a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/questions/Question6.md" target="_blank">
-  <img src="https://img.shields.io/badge/Question-6-purple?style=for-the-badge&logoSize=60" alt="Question 6">
-</a>
+[![Question 6](https://img.shields.io/badge/Question-6-purple?style=for-the-badge&logoSize=60)](https://github.com/alishgosai/Javascript-Exercise-and-Solutions)    
+
 
 ### **Description**
-Question for day6 comming soon.
-Contributers to provide a clear and concise description of the task for **Question 6**.
+Create a function `multiplyArray` that takes an array of numbers and returns the product of all the numbers. For example, for the array `[2, 3, 4]`, the function should return `24`.
 
 ### **Hint**
-![Hint](https://img.shields.io/badge/Hint:-blue)
-Provide useful hints or tips for solving **Question 6**.
+![Hint](https://img.shields.io/badge/Hint:-blue) You can use a loop to multiply all the elements of the array together.
 
 ### **Expected Output**
-![Output](https://img.shields.io/badge/Output:-blue)
-Describe the expected result or output of **Question 6**.
+![Output](https://img.shields.io/badge/Output:-blue) 
+The function `multiplyArray([2, 3, 4])` should return `24`.
 
-### <a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution6.js" target="_blank">
-  <img src="https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white" alt="Solution">
-</a>
-
-<a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution6.js" target="_blank">View Solution</a>
+### ![Solution](https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white)
+[View Solution](https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution6.js)
 
 ---
 
@@ -186,27 +152,22 @@ Describe the expected result or output of **Question 6**.
 
 
 ## Question 7
-<a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/questions/Question7.md" target="_blank">
-  <img src="https://img.shields.io/badge/Question-7-purple?style=for-the-badge&logoSize=60" alt="Question 7">
-</a>
+[![Question 7](https://img.shields.io/badge/Question-7-purple?style=for-the-badge&logoSize=60)](https://github.com/alishgosai/Javascript-Exercise-and-Solutions)    
+
 
 ### **Description**
-Question for day7 comming soon.
-Contributers to provide a clear and concise description of the task for **Question 7**.
+Write a function `findMax` that takes an array of numbers and returns the largest number in the array. For example, for the array `[1, 3, 5, 2]`, the function should return `5`.
 
 ### **Hint**
 ![Hint](https://img.shields.io/badge/Hint:-blue)
-Provide useful hints or tips for solving **Question 7**.
+You can use a loop to compare each number and keep track of the maximum.
 
 ### **Expected Output**
 ![Output](https://img.shields.io/badge/Output:-blue)
-Describe the expected result or output of **Question 7**.
+The function `findMax([1, 3, 5, 2])` should return `5`.
 
-### <a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution7.js" target="_blank">
-  <img src="https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white" alt="Solution">
-</a>
-
-<a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution7.js" target="_blank">View Solution</a>
+### ![Solution](https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white)
+[View Solution](https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution7.js)
 
 ---
 
@@ -215,27 +176,22 @@ Describe the expected result or output of **Question 7**.
 
 
 ## Question 8
-<a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/questions/Question8.md" target="_blank">
-  <img src="https://img.shields.io/badge/Question-8-purple?style=for-the-badge&logoSize=60" alt="Question 8">
-</a>
+[![Question 8](https://img.shields.io/badge/Question-8-purple?style=for-the-badge&logoSize=60)](https://github.com/alishgosai/Javascript-Exercise-and-Solutions)    
+
 
 ### **Description**
-Question for day8 comming soon.
-Contributers to provide a clear and concise description of the task for **Question 8**.
+Create a function `isPalindrome` that checks if a given string is a palindrome. A palindrome is a string that reads the same backward as forward. For example, `"madam"` is a palindrome.
 
 ### **Hint**
 ![Hint](https://img.shields.io/badge/Hint:-blue)
-Provide useful hints or tips for solving **Question 8**.
+You can compare the string with its reversed version.
 
 ### **Expected Output**
 ![Output](https://img.shields.io/badge/Output:-blue)
-Describe the expected result or output of **Question 8**.
+The function `isPalindrome("madam")` should return `true`, and `isPalindrome("hello")` should return `false`.
 
-### <a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution8.js" target="_blank">
-  <img src="https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white" alt="Solution">
-</a>
-
-<a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution8.js" target="_blank">View Solution</a>
+### ![Solution](https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white)
+[View Solution](https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution8.js)
 
 ---
 
@@ -244,27 +200,22 @@ Describe the expected result or output of **Question 8**.
 
 
 ## Question 9
-<a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/questions/Question9.md" target="_blank">
-  <img src="https://img.shields.io/badge/Question-9-purple?style=for-the-badge&logoSize=60" alt="Question 9">
-</a>
+[![Question 9](https://img.shields.io/badge/Question-9-purple?style=for-the-badge&logoSize=60)](https://github.com/alishgosai/Javascript-Exercise-and-Solutions)    
+
 
 ### **Description**
-Question for day9 comming soon.
-Contributers to provide a clear and concise description of the task for **Question 9**.
+Write a function `filterEvens` that takes an array of numbers and returns a new array containing only the even numbers.
 
 ### **Hint**
 ![Hint](https://img.shields.io/badge/Hint:-blue)
-Provide useful hints or tips for solving **Question 9**.
+You can use the `filter` method to create a new array with only even numbers.
 
 ### **Expected Output**
 ![Output](https://img.shields.io/badge/Output:-blue)
-Describe the expected result or output of **Question 9**.
+The function `filterEvens([1, 2, 3, 4, 5])` should return `[2, 4]`.
 
-### <a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution9.js" target="_blank">
-  <img src="https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white" alt="Solution">
-</a>
-
-<a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution9.js" target="_blank">View Solution</a>
+### ![Solution](https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white)
+[View Solution](https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution9.js)
 
 ---
 
@@ -273,27 +224,22 @@ Describe the expected result or output of **Question 9**.
 
 
 ## Question 10
-<a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/questions/Question10.md" target="_blank">
-  <img src="https://img.shields.io/badge/Question-10-purple?style=for-the-badge&logoSize=60" alt="Question 10">
-</a>
+[![Question 10](https://img.shields.io/badge/Question-10-purple?style=for-the-badge&logoSize=60)](https://github.com/alishgosai/Javascript-Exercise-and-Solutions)    
+
 
 ### **Description**
-Question for day10 comming soon.
-Contributers to provide a clear and concise description of the task for **Question 10**.
+Create a function `removeDuplicates` that takes an array of numbers and returns a new array with duplicates removed. For example, the array `[1, 2, 2, 3]` should become `[1, 2, 3]`.
 
 ### **Hint**
 ![Hint](https://img.shields.io/badge/Hint:-blue)
-Provide useful hints or tips for solving **Question 10**.
+You can use a `Set` to remove duplicates from the array.
 
 ### **Expected Output**
 ![Output](https://img.shields.io/badge/Output:-blue)
-Describe the expected result or output of **Question 10**.
+The function `removeDuplicates([1, 2, 2, 3])` should return `[1, 2, 3]`.
 
-### <a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution10.js" target="_blank">
-  <img src="https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white" alt="Solution">
-</a>
-
-<a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution10.js" target="_blank">View Solution</a>
+### ![Solution](https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white)
+[View Solution](https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution10.js)
 
 ---
 
@@ -302,27 +248,23 @@ Describe the expected result or output of **Question 10**.
 
 
 ## Question 11
-<a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/questions/Question11.md" target="_blank">
-  <img src="https://img.shields.io/badge/Question-11-purple?style=for-the-badge&logoSize=60" alt="Question 11">
-</a>
+[![Question 11](https://img.shields.io/badge/Question-11-purple?style=for-the-badge&logoSize=60)](https://github.com/alishgosai/Javascript-Exercise-and-Solutions)    
+
 
 ### **Description**
-Question for day11 comming soon.
-Contributers to provide a clear and concise description of the task for **Question 11**.
+You are building a library management system where you need to keep track of the books available for lending. Write a function `getAvailableBooks` that takes an array of book objects, each with a `title` and `isAvailable` property, and returns an array of titles of books that are currently available.
 
 ### **Hint**
 ![Hint](https://img.shields.io/badge/Hint:-blue)
-Provide useful hints or tips for solving **Question 11**.
+Filter the array of books based on the `isAvailable` property.
 
 ### **Expected Output**
 ![Output](https://img.shields.io/badge/Output:-blue)
-Describe the expected result or output of **Question 11**.
+The function `getAvailableBooks([{ title: 'Book 1', isAvailable: true }, { title: 'Book 2', isAvailable: false }])` should return `['Book 1']`.
 
-### <a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution11.js" target="_blank">
-  <img src="https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white" alt="Solution">
-</a>
 
-<a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution11.js" target="_blank">View Solution</a>
+### ![Solution](https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white)
+[View Solution](https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution11.js)
 
 ---
 
@@ -331,27 +273,22 @@ Describe the expected result or output of **Question 11**.
 
 
 ## Question 12
-<a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/questions/Question12.md" target="_blank">
-  <img src="https://img.shields.io/badge/Question-12-purple?style=for-the-badge&logoSize=60" alt="Question 12">
-</a>
+[![Question 12](https://img.shields.io/badge/Question-12-purple?style=for-the-badge&logoSize=60)](https://github.com/alishgosai/Javascript-Exercise-and-Solutions)    
+
 
 ### **Description**
-Question for day12 comming soon.
-Contributers to provide a clear and concise description of the task for **Question 12**.
+You are developing a chat application and need to implement a feature that formats messages with timestamps. Write a function that takes a message and a timestamp and returns the formatted message in the form "message (HH:MM:SS)". This will help in displaying messages with the time they were sent, making the chat more organized and user-friendly.
 
 ### **Hint**
 ![Hint](https://img.shields.io/badge/Hint:-blue)
-Provide useful hints or tips for solving **Question 12**.
+Use the Date object to format the timestamp.
 
 ### **Expected Output**
 ![Output](https://img.shields.io/badge/Output:-blue)
-Describe the expected result or output of **Question 12**.
+The function `formatMessage('Hello', 1628257325000)` should return `'Hello (12:02:05)'`.
 
-### <a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution12.js" target="_blank">
-  <img src="https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white" alt="Solution">
-</a>
-
-<a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution12.js" target="_blank">View Solution</a>
+### ![Solution](https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white)
+[View Solution](https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution12.js)
 
 ---
 
@@ -360,27 +297,22 @@ Describe the expected result or output of **Question 12**.
 
 
 ## Question 13
-<a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/questions/Question13.md" target="_blank">
-  <img src="https://img.shields.io/badge/Question-13-purple?style=for-the-badge&logoSize=60" alt="Question 13">
-</a>
+[![Question 13](https://img.shields.io/badge/Question-13-purple?style=for-the-badge&logoSize=60)](https://github.com/alishgosai/Javascript-Exercise-and-Solutions)    
+
 
 ### **Description**
-Question for day13 comming soon.
-Contributers to provide a clear and concise description of the task for **Question 13**.
+You are creating a survey application where users can rate their satisfaction on a scale of 1 to 5. Write a function that takes an array of ratings and returns the average rating. This will help in understanding the overall user satisfaction from the survey results.
 
 ### **Hint**
 ![Hint](https://img.shields.io/badge/Hint:-blue)
-Provide useful hints or tips for solving **Question 13**.
+Sum the ratings and divide by the number of ratings to get the average.
 
 ### **Expected Output**
 ![Output](https://img.shields.io/badge/Output:-blue)
-Describe the expected result or output of **Question 13**.
+The function `calculateAverageRating([5, 4, 3, 5, 4])` should return `4.2`.
 
-### <a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution13.js" target="_blank">
-  <img src="https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white" alt="Solution">
-</a>
-
-<a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution13.js" target="_blank">View Solution</a>
+### ![Solution](https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white)
+[View Solution](https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution13.js)
 
 ---
 
@@ -389,27 +321,22 @@ Describe the expected result or output of **Question 13**.
 
 
 ## Question 14
-<a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/questions/Question14.md" target="_blank">
-  <img src="https://img.shields.io/badge/Question-14-purple?style=for-the-badge&logoSize=60" alt="Question 14">
-</a>
+[![Question 14](https://img.shields.io/badge/Question-14-purple?style=for-the-badge&logoSize=60)](https://github.com/alishgosai/Javascript-Exercise-and-Solutions)    
+
 
 ### **Description**
-Question for day14 comming soon.
-Contributers to provide a clear and concise description of the task for **Question 14**.
+You are building a weather application and need to convert temperatures from Fahrenheit to Celsius. Write a function that takes a temperature in Fahrenheit and returns the equivalent temperature in Celsius. This will allow users to view temperature data in their preferred unit.
 
 ### **Hint**
 ![Hint](https://img.shields.io/badge/Hint:-blue)
-Provide useful hints or tips for solving **Question 14**.
+Use the conversion formula C = (F - 32) * 5/9 to calculate Celsius.
 
 ### **Expected Output**
 ![Output](https://img.shields.io/badge/Output:-blue)
-Describe the expected result or output of **Question 14**.
+The function `convertToFahrenheit(68)` should return `20`.
 
-### <a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution14.js" target="_blank">
-  <img src="https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white" alt="Solution">
-</a>
-
-<a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution14.js" target="_blank">View Solution</a>
+### ![Solution](https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white)
+[View Solution](https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution14.js)
 
 ---
 
@@ -418,27 +345,25 @@ Describe the expected result or output of **Question 14**.
 
 
 ## Question 15
-<a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/questions/Question15.md" target="_blank">
-  <img src="https://img.shields.io/badge/Question-15-purple?style=for-the-badge&logoSize=60" alt="Question 15">
-</a>
+[![Question 15](https://img.shields.io/badge/Question-15-purple?style=for-the-badge&logoSize=60)](https://github.com/alishgosai/Javascript-Exercise-and-Solutions)    
+
 
 ### **Description**
-Question for day15 comming soon.
-Contributers to provide a clear and concise description of the task for **Question 15**.
+You are developing a financial application that tracks daily expenses. Write a function that takes an array of expense objects, each with a date and amount property, and returns the total amount spent. This will help users manage their finances by providing a summary of their daily spending.
 
 ### **Hint**
 ![Hint](https://img.shields.io/badge/Hint:-blue)
-Provide useful hints or tips for solving **Question 15**.
+Sum the amount property of each expense object to get the total.
 
 ### **Expected Output**
 ![Output](https://img.shields.io/badge/Output:-blue)
-Describe the expected result or output of **Question 15**.
+The function `calculateTotalExpenses([{ date: '2023-01-01', amount: 50 }, { date: '2023-01-02', amount: 30 }])` should return `80`.
 
-### <a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution15.js" target="_blank">
-  <img src="https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white" alt="Solution">
-</a>
+![Output](https://img.shields.io/badge/Output:-blue)
+Describe the expected result or output of **Question 15**. Specify what the function or solution should return or how it should behave.
 
-<a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution15.js" target="_blank">View Solution</a>
+### ![Solution](https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white)
+[View Solution](https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution15.js)
 
 ---
 
@@ -447,27 +372,23 @@ Describe the expected result or output of **Question 15**.
 
 
 ## Question 16
-<a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/questions/Question16.md" target="_blank">
-  <img src="https://img.shields.io/badge/Question-16-purple?style=for-the-badge&logoSize=60" alt="Question 16">
-</a>
+[![Question 16](https://img.shields.io/badge/Question-16-purple?style=for-the-badge&logoSize=60)](https://github.com/alishgosai/Javascript-Exercise-and-Solutions)    
+
 
 ### **Description**
-Question for day16 comming soon.
-Contributers to provide a clear and concise description of the task for **Question 16**.
+You are creating a contact list application where users can search for contacts by name. Write a function that takes an array of contact objects, each with a name and phoneNumber property, and a search term. The function should return an array of contacts whose names include the search term. This will allow users to quickly find and retrieve contact information.
 
 ### **Hint**
 ![Hint](https://img.shields.io/badge/Hint:-blue)
-Provide useful hints or tips for solving **Question 16**.
+Use the `includes` method to check if the contact's name contains the search term.
 
 ### **Expected Output**
 ![Output](https://img.shields.io/badge/Output:-blue)
-Describe the expected result or output of **Question 16**.
+The function `searchContacts([{ name: 'Alice', phoneNumber: '1234567890' }, { name: 'Bob', phoneNumber: '0987654321' }], 'Ali')` should return `[{ name: 'Alice', phoneNumber: '1234567890' }]`.
 
-### <a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution16.js" target="_blank">
-  <img src="https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white" alt="Solution">
-</a>
 
-<a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution16.js" target="_blank">View Solution</a>
+### ![Solution](https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white)
+[View Solution](https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution16.js)
 
 ---
 
@@ -476,27 +397,23 @@ Describe the expected result or output of **Question 16**.
 
 
 ## Question 17
-<a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/questions/Question17.md" target="_blank">
-  <img src="https://img.shields.io/badge/Question-17-purple?style=for-the-badge&logoSize=60" alt="Question 17">
-</a>
+[![Question 17](https://img.shields.io/badge/Question-17-purple?style=for-the-badge&logoSize=60)](https://github.com/alishgosai/Javascript-Exercise-and-Solutions)    
+
 
 ### **Description**
-Question for day17 comming soon.
-Contributers to provide a clear and concise description of the task for **Question 17**.
+You are working on an e-commerce platform and need to apply a discount to a list of product prices. Write a function that takes an array of product prices and a discount percentage, and returns an array of the discounted prices. This will help in displaying the final prices after applying discounts during sales or promotions.
 
 ### **Hint**
 ![Hint](https://img.shields.io/badge/Hint:-blue)
-Provide useful hints or tips for solving **Question 17**.
+Apply the discount percentage to each price to calculate the discounted price.
 
 ### **Expected Output**
 ![Output](https://img.shields.io/badge/Output:-blue)
-Describe the expected result or output of **Question 17**.
+The function `applyDiscount([100, 200, 300], 10)` should return `[90, 180, 270]`.
 
-### <a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution17.js" target="_blank">
-  <img src="https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white" alt="Solution">
-</a>
 
-<a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution17.js" target="_blank">View Solution</a>
+### ![Solution](https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white)
+[View Solution](https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution17.js)
 
 ---
 
@@ -505,27 +422,23 @@ Describe the expected result or output of **Question 17**.
 
 
 ## Question 18
-<a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/questions/Question18.md" target="_blank">
-  <img src="https://img.shields.io/badge/Question-18-purple?style=for-the-badge&logoSize=60" alt="Question 18">
-</a>
+[![Question 18](https://img.shields.io/badge/Question-18-purple?style=for-the-badge&logoSize=60)](https://github.com/alishgosai/Javascript-Exercise-and-Solutions)    
+
 
 ### **Description**
-Question for day18 comming soon.
-Contributers to provide a clear and concise description of the task for **Question 18**.
+You are developing a simple game where the player needs to guess a random number. Write a function that generates a random integer between a given minimum and maximum value (inclusive). This will create an element of chance in the game, making it more engaging for the player.
 
 ### **Hint**
 ![Hint](https://img.shields.io/badge/Hint:-blue)
-Provide useful hints or tips for solving **Question 18**.
+Use `Math.random()` to generate a random number and scale it to the desired range.
 
 ### **Expected Output**
 ![Output](https://img.shields.io/badge/Output:-blue)
-Describe the expected result or output of **Question 18**.
+The function `generateRandomNumber(1, 10)` should return a random integer between 1 and 10.
 
-### <a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution18.js" target="_blank">
-  <img src="https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white" alt="Solution">
-</a>
 
-<a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution18.js" target="_blank">View Solution</a>
+### ![Solution](https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white)
+[View Solution](https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution18.js)
 
 ---
 
@@ -534,27 +447,23 @@ Describe the expected result or output of **Question 18**.
 
 
 ## Question 19
-<a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/questions/Question19.md" target="_blank">
-  <img src="https://img.shields.io/badge/Question-19-purple?style=for-the-badge&logoSize=60" alt="Question 19">
-</a>
+[![Question 19](https://img.shields.io/badge/Question-19-purple?style=for-the-badge&logoSize=60)](https://github.com/alishgosai/Javascript-Exercise-and-Solutions)    
+
 
 ### **Description**
-Question for day19 comming soon.
-Contributers to provide a clear and concise description of the task for **Question 19**.
+You are building a reminder application that sends notifications at specified times. Write a function that takes an array of reminder times (in milliseconds) and a current time, and returns an array of reminders that are due (i.e., times less than or equal to the current time). This will help in notifying users of tasks that need immediate attention.
 
 ### **Hint**
 ![Hint](https://img.shields.io/badge/Hint:-blue)
-Provide useful hints or tips for solving **Question 19**.
+Filter the array of reminders based on the current time.
 
 ### **Expected Output**
 ![Output](https://img.shields.io/badge/Output:-blue)
-Describe the expected result or output of **Question 19**.
+The function `getDueReminders([1628257325000, 1628260925000], 1628257325000)` should return `[1628257325000]`.
 
-### <a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution19.js" target="_blank">
-  <img src="https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white" alt="Solution">
-</a>
 
-<a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution19.js" target="_blank">View Solution</a>
+### ![Solution](https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white)
+[View Solution](https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution19.js)
 
 ---
 
@@ -563,27 +472,23 @@ Describe the expected result or output of **Question 19**.
 
 
 ## Question 20
-<a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/questions/Question20.md" target="_blank">
-  <img src="https://img.shields.io/badge/Question-20-purple?style=for-the-badge&logoSize=60" alt="Question 20">
-</a>
+[![Question 20](https://img.shields.io/badge/Question-20-purple?style=for-the-badge&logoSize=60)](https://github.com/alishgosai/Javascript-Exercise-and-Solutions)    
+
 
 ### **Description**
-Question for day20 comming soon.
-Contributers to provide a clear and concise description of the task for **Question 20**.
+You are creating a student attendance system. Write a function that takes an array of student objects, each with a name and attendance property, and returns the names of students who have perfect attendance (i.e., attendance is 100%). This will help in identifying and rewarding students who have maintained perfect attendance.
 
 ### **Hint**
 ![Hint](https://img.shields.io/badge/Hint:-blue)
-Provide useful hints or tips for solving **Question 20**.
+Filter the array of students based on the attendance property.
 
 ### **Expected Output**
 ![Output](https://img.shields.io/badge/Output:-blue)
-Describe the expected result or output of **Question 20**.
+The function `getPerfectAttendance([{ name: 'Alice', attendance: 100 }, { name: 'Bob', attendance: 90 }])` should return `['Alice']`.
 
-### <a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution20.js" target="_blank">
-  <img src="https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white" alt="Solution">
-</a>
 
-<a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution20.js" target="_blank">View Solution</a>
+### ![Solution](https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white)
+[View Solution](https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution20.js)
 
 ---
 
@@ -592,27 +497,23 @@ Describe the expected result or output of **Question 20**.
 
 
 ## Question 21
-<a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/questions/Question21.md" target="_blank">
-  <img src="https://img.shields.io/badge/Question-21-purple?style=for-the-badge&logoSize=60" alt="Question 21">
-</a>
+[![Question 21](https://img.shields.io/badge/Question-21-purple?style=for-the-badge&logoSize=60)](https://github.com/alishgosai/Javascript-Exercise-and-Solutions)    
+
 
 ### **Description**
-Question for day21 comming soon.
-Contributers to provide a clear and concise description of the task for **Question 21**.
+You are developing a user profile page where users can update their profile information. Write a function that validates the user's input for an `email` address and a `phone number`. The `email` should follow a standard format, and the `phone number` should contain exactly `10 digits`. Log messages indicating whether each input is valid.
 
 ### **Hint**
 ![Hint](https://img.shields.io/badge/Hint:-blue)
-Provide useful hints or tips for solving **Question 21**.
+Use regular expressions to validate the `email` address and check the length of the `phone number`.
 
 ### **Expected Output**
 ![Output](https://img.shields.io/badge/Output:-blue)
-Describe the expected result or output of **Question 21**.
+The function should log whether the `email` address and `phone number` are valid.
 
-### <a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution21.js" target="_blank">
-  <img src="https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white" alt="Solution">
-</a>
 
-<a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution21.js" target="_blank">View Solution</a>
+### ![Solution](https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white)
+[View Solution](https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution21.js)
 
 ---
 
@@ -621,27 +522,23 @@ Describe the expected result or output of **Question 21**.
 
 
 ## Question 22
-<a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/questions/Question22.md" target="_blank">
-  <img src="https://img.shields.io/badge/Question-22-purple?style=for-the-badge&logoSize=60" alt="Question 22">
-</a>
+[![Question 22](https://img.shields.io/badge/Question-22-purple?style=for-the-badge&logoSize=60)](https://github.com/alishgosai/Javascript-Exercise-and-Solutions)    
+
 
 ### **Description**
-Question for day22 comming soon.
-Contributers to provide a clear and concise description of the task for **Question 22**.
+You are developing a user profile page where users can update their profile information. Write a function that validates the user's input for an `email` address and a `phone number`. The `email` should follow a standard format, and the `phone number` should contain exactly `10 digits`. Log messages indicating whether each input is valid.
 
 ### **Hint**
 ![Hint](https://img.shields.io/badge/Hint:-blue)
-Provide useful hints or tips for solving **Question 22**.
+Use regular expressions to validate the `email` address and check the length of the `phone number`.
 
 ### **Expected Output**
 ![Output](https://img.shields.io/badge/Output:-blue)
-Describe the expected result or output of **Question 22**.
+The function should log whether the `email` address and `phone number` are valid.
 
-### <a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution22.js" target="_blank">
-  <img src="https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white" alt="Solution">
-</a>
 
-<a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution22.js" target="_blank">View Solution</a>
+### ![Solution](https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white)
+[View Solution](https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution22.js)
 
 ---
 
@@ -650,27 +547,23 @@ Describe the expected result or output of **Question 22**.
 
 
 ## Question 23
-<a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/questions/Question23.md" target="_blank">
-  <img src="https://img.shields.io/badge/Question-23-purple?style=for-the-badge&logoSize=60" alt="Question 23">
-</a>
+[![Question 23](https://img.shields.io/badge/Question-23-purple?style=for-the-badge&logoSize=60)](https://github.com/alishgosai/Javascript-Exercise-and-Solutions)    
+
 
 ### **Description**
-Question for day23 comming soon.
-Contributers to provide a clear and concise description of the task for **Question 23**.
+You are working on a file management system. Write a function that takes an array of `file sizes` (in megabytes) and returns an array of file sizes that exceed a specified `size limit`.
 
 ### **Hint**
 ![Hint](https://img.shields.io/badge/Hint:-blue)
-Provide useful hints or tips for solving **Question 23**.
+Use array methods to filter the file sizes based on the `size limit`.
 
 ### **Expected Output**
 ![Output](https://img.shields.io/badge/Output:-blue)
-Describe the expected result or output of **Question 23**.
+The function should return an array of file sizes that exceed the `size limit`.
 
-### <a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution23.js" target="_blank">
-  <img src="https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white" alt="Solution">
-</a>
 
-<a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution23.js" target="_blank">View Solution</a>
+### ![Solution](https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white)
+[View Solution](https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution23.js)
 
 ---
 
@@ -679,27 +572,23 @@ Describe the expected result or output of **Question 23**.
 
 
 ## Question 24
-<a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/questions/Question24.md" target="_blank">
-  <img src="https://img.shields.io/badge/Question-24-purple?style=for-the-badge&logoSize=60" alt="Question 24">
-</a>
+[![Question 24](https://img.shields.io/badge/Question-24-purple?style=for-the-badge&logoSize=60)](https://github.com/alishgosai/Javascript-Exercise-and-Solutions)    
+
 
 ### **Description**
-Question for day24 comming soon.
-Contributers to provide a clear and concise description of the task for **Question 24**.
+You are developing a budgeting tool. Write a function that calculates the `total expenses` and `savings` based on an array of `expense` and `income` amounts. The function should return an object with the `total expenses`, `total income`, and `net savings` (income minus expenses).
 
 ### **Hint**
 ![Hint](https://img.shields.io/badge/Hint:-blue)
-Provide useful hints or tips for solving **Question 24**.
+Sum the `expenses` and `income` arrays and compute the `net savings`.
 
 ### **Expected Output**
 ![Output](https://img.shields.io/badge/Output:-blue)
-Describe the expected result or output of **Question 24**.
+The function should return an object with `total expenses`, `total income`, and `net savings`.
 
-### <a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution24.js" target="_blank">
-  <img src="https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white" alt="Solution">
-</a>
 
-<a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution24.js" target="_blank">View Solution</a>
+### ![Solution](https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white)
+[View Solution](https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution24.js)
 
 ---
 
@@ -708,27 +597,23 @@ Describe the expected result or output of **Question 24**.
 
 
 ## Question 25
-<a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/questions/Question25.md" target="_blank">
-  <img src="https://img.shields.io/badge/Question-25-purple?style=for-the-badge&logoSize=60" alt="Question 25">
-</a>
+[![Question 25](https://img.shields.io/badge/Question-25-purple?style=for-the-badge&logoSize=60)](https://github.com/alishgosai/Javascript-Exercise-and-Solutions)    
+
 
 ### **Description**
-Question for day25 comming soon.
-Contributers to provide a clear and concise description of the task for **Question 25**.
+You are creating a basic library system. Write a function that takes an array of `book objects`, each with a `title`, `author`, and `publication year`, and returns the books published after a specified `year`.
 
 ### **Hint**
 ![Hint](https://img.shields.io/badge/Hint:-blue)
-Provide useful hints or tips for solving **Question 25**.
+Use array methods to filter books based on the `publication year`.
 
 ### **Expected Output**
 ![Output](https://img.shields.io/badge/Output:-blue)
-Describe the expected result or output of **Question 25**.
+The function should return an array of books published after the specified `year`.
 
-### <a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution25.js" target="_blank">
-  <img src="https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white" alt="Solution">
-</a>
 
-<a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution25.js" target="_blank">View Solution</a>
+### ![Solution](https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white)
+[View Solution](https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution25.js)
 
 ---
 
@@ -737,27 +622,22 @@ Describe the expected result or output of **Question 25**.
 
 
 ## Question 26
-<a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/questions/Question26.md" target="_blank">
-  <img src="https://img.shields.io/badge/Question-26-purple?style=for-the-badge&logoSize=60" alt="Question 26">
-</a>
+[![Question 26](https://img.shields.io/badge/Question-26-purple?style=for-the-badge&logoSize=60)](https://github.com/alishgosai/Javascript-Exercise-and-Solutions)    
+
 
 ### **Description**
-Question for day26 comming soon.
-Contributers to provide a clear and concise description of the task for **Question 26**.
+You are developing a simple weather app. Write a function that converts a temperature from `Fahrenheit` to `Celsius` and returns the result. The function should take a temperature in `Fahrenheit` as input and use the formula `C = (F - 32) * 5/9` for the conversion.
 
 ### **Hint**
 ![Hint](https://img.shields.io/badge/Hint:-blue)
-Provide useful hints or tips for solving **Question 26**.
+Apply the formula for `Fahrenheit` to `Celsius` conversion.
 
 ### **Expected Output**
 ![Output](https://img.shields.io/badge/Output:-blue)
-Describe the expected result or output of **Question 26**.
+The function should return the temperature in `Celsius`.
 
-### <a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution26.js" target="_blank">
-  <img src="https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white" alt="Solution">
-</a>
-
-<a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution26.js" target="_blank">View Solution</a>
+### ![Solution](https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white)
+[View Solution](https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution26.js)
 
 ---
 
@@ -766,27 +646,23 @@ Describe the expected result or output of **Question 26**.
 
 
 ## Question 27
-<a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/questions/Question27.md" target="_blank">
-  <img src="https://img.shields.io/badge/Question-27-purple?style=for-the-badge&logoSize=60" alt="Question 27">
-</a>
+[![Question 27](https://img.shields.io/badge/Question-27-purple?style=for-the-badge&logoSize=60)](https://github.com/alishgosai/Javascript-Exercise-and-Solutions)    
+
 
 ### **Description**
-Question for day27 comming soon.
-Contributers to provide a clear and concise description of the task for **Question 27**.
+You are working on a content management system. Write a script that takes an array of `article titles` and checks if any title contains the keyword `JavaScript`. Log a message indicating which titles contain the keyword.
 
 ### **Hint**
 ![Hint](https://img.shields.io/badge/Hint:-blue)
-Provide useful hints or tips for solving **Question 27**.
+Use array methods to check each title for the `JavaScript` keyword.
 
 ### **Expected Output**
 ![Output](https://img.shields.io/badge/Output:-blue)
-Describe the expected result or output of **Question 27**.
+The script should log which `article titles` contain the `JavaScript` keyword.
 
-### <a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution27.js" target="_blank">
-  <img src="https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white" alt="Solution">
-</a>
 
-<a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution27.js" target="_blank">View Solution</a>
+### ![Solution](https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white)
+[View Solution](https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution27.js)
 
 ---
 
@@ -795,27 +671,23 @@ Describe the expected result or output of **Question 27**.
 
 
 ## Question 28
-<a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/questions/Question28.md" target="_blank">
-  <img src="https://img.shields.io/badge/Question-28-purple?style=for-the-badge&logoSize=60" alt="Question 28">
-</a>
+[![Question 28](https://img.shields.io/badge/Question-28-purple?style=for-the-badge&logoSize=60)](https://github.com/alishgosai/Javascript-Exercise-and-Solutions)    
+
 
 ### **Description**
-Question for day28 comming soon.
-Contributers to provide a clear and concise description of the task for **Question 28**.
+You are building a simple financial report generator. Write a function that calculates the `total` and `average` amount of transactions from an array of `transaction amounts`. The function should return an object with the `total` and `average` values.
 
 ### **Hint**
 ![Hint](https://img.shields.io/badge/Hint:-blue)
-Provide useful hints or tips for solving **Question 28**.
+Sum the `transactions` and calculate the `average` using array methods.
 
 ### **Expected Output**
 ![Output](https://img.shields.io/badge/Output:-blue)
-Describe the expected result or output of **Question 28**.
+The function should return an object with `total` and `average` transaction amounts.
 
-### <a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution28.js" target="_blank">
-  <img src="https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white" alt="Solution">
-</a>
 
-<a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution28.js" target="_blank">View Solution</a>
+### ![Solution](https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white)
+[View Solution](https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution28.js)
 
 ---
 
@@ -824,27 +696,23 @@ Describe the expected result or output of **Question 28**.
 
 
 ## Question 29
-<a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/questions/Question29.md" target="_blank">
-  <img src="https://img.shields.io/badge/Question-29-purple?style=for-the-badge&logoSize=60" alt="Question 29">
-</a>
+[![Question 29](https://img.shields.io/badge/Question-29-purple?style=for-the-badge&logoSize=60)](https://github.com/alishgosai/Javascript-Exercise-and-Solutions)    
+
 
 ### **Description**
-Question for day29 comming soon.
-Contributers to provide a clear and concise description of the task for **Question 29**.
+You are creating a contact list application. Write a function that takes an array of `contact objects` with `name` and `phone number` properties and returns an array of `contact names` whose `phone number` starts with a specific `area code`.
 
 ### **Hint**
 ![Hint](https://img.shields.io/badge/Hint:-blue)
-Provide useful hints or tips for solving **Question 29**.
+Use array methods to filter contacts based on the `phone number` prefix.
 
 ### **Expected Output**
 ![Output](https://img.shields.io/badge/Output:-blue)
-Describe the expected result or output of **Question 29**.
+The function should return an array of `contact names` with the specified `area code`.
 
-### <a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution29.js" target="_blank">
-  <img src="https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white" alt="Solution">
-</a>
 
-<a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution29.js" target="_blank">View Solution</a>
+### ![Solution](https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white)
+[View Solution](https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution29.js)
 
 ---
 
@@ -853,27 +721,131 @@ Describe the expected result or output of **Question 29**.
 
 
 ## Question 30
-<a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/questions/Question30.md" target="_blank">
-  <img src="https://img.shields.io/badge/Question-30-purple?style=for-the-badge&logoSize=60" alt="Question 30">
-</a>
+[![Question 30](https://img.shields.io/badge/Question-30-purple?style=for-the-badge&logoSize=60)](https://github.com/alishgosai/Javascript-Exercise-and-Solutions)    
+
 
 ### **Description**
-Question for day30 comming soon.
-Contributers to provide a clear and concise description of the task for **Question 30**.
+You are developing a task management system. Write a function that takes an array of `task objects`, each with a `due date` and a `status` (completed or not), and returns an array of tasks that are `overdue` (i.e., have a `due date` before today and are not completed).
 
 ### **Hint**
 ![Hint](https://img.shields.io/badge/Hint:-blue)
-Provide useful hints or tips for solving **Question 30**.
+Use `date comparisons` and array methods to filter overdue tasks.
 
 ### **Expected Output**
 ![Output](https://img.shields.io/badge/Output:-blue)
-Describe the expected result or output of **Question 30**.
+The function should return an array of `overdue tasks`.
 
-### <a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution30.js" target="_blank">
-  <img src="https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white" alt="Solution">
-</a>
 
+### ![Solution](https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white)
 <a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution30.js" target="_blank">View Solution</a>
 
 ---
 
+
+
+
+
+## Question 31
+[![Question 31](https://img.shields.io/badge/Question-31-purple?style=for-the-badge&logoSize=60)](<a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions" target="_blank">https://github.com/alishgosai/Javascript-Exercise-and-Solutions</a>)
+
+### **Description**
+Question for day 31 coming soon.  
+Provide a clear and concise description of the task for **Question 31**. For example, if the task involves creating a function, explain what the function should accomplish and any parameters it should accept.
+
+### **Hint**
+![Hint](https://img.shields.io/badge/Hint:-blue)  
+Provide useful hints or tips for solving **Question 31**. For instance, suggest key methods or concepts to consider.
+
+### **Expected Output**
+![Output](https://img.shields.io/badge/Output:-blue)  
+Describe the expected result or output of **Question 31**. Specify what the function or solution should return or how it should behave.
+
+### [![Solution](https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white)](<a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution31.js" target="_blank">Solution 31</a>)
+<a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution31.js" target="_blank">View Solution</a>
+
+---
+
+
+
+
+
+## Question 32
+<a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions" target="_blank">
+  <img src="https://img.shields.io/badge/Question-32-purple?style=for-the-badge&logoSize=60" alt="Question 32">
+</a>
+
+[![Question 32](https://img.shields.io/badge/Question-32-purple?style=for-the-badge&logoSize=60)](https://github.com/alishgosai/Javascript-Exercise-and-Solutions)    
+
+
+### **Description**
+Question for day32 comming soon.
+Provide a clear and concise description of the task for **Question 32**. For example, if the task involves creating a function, explain what the function should accomplish and any parameters it should accept.
+
+### **Hint**
+![Hint](https://img.shields.io/badge/Hint:-blue)
+Provide useful hints or tips for solving **Question 32**. For instance, suggest key methods or concepts to consider.
+
+### **Expected Output**
+![Output](https://img.shields.io/badge/Output:-blue)
+Describe the expected result or output of **Question 32**. Specify what the function or solution should return or how it should behave.
+
+### ![Solution](https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white)
+<a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution32.js" target="_blank">View Solution</a>
+---
+
+
+
+
+
+## Question 33
+<a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/questions/Questions33.md" target="_blank">
+  <img src="https://img.shields.io/badge/Question-33-purple?style=for-the-badge&logoSize=60" alt="Question 33">
+</a>
+
+### **Description**
+Question for day33 comming soon.
+Contributers to provide a clear and concise description of the task for **Question 33**.
+
+### **Hint**
+![Hint](https://img.shields.io/badge/Hint:-blue)
+Provide useful hints or tips for solving **Question 33**.
+
+### **Expected Output**
+![Output](https://img.shields.io/badge/Output:-blue)
+Describe the expected result or output of **Question 33**.
+
+### <a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution33.js" target="_blank">
+  <img src="https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white" alt="Solution">
+</a>
+<a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution33.js" target="_blank">View Solution</a>
+---
+
+
+## Question ${index}
+<div class="center margin-top">
+<a href="${repoLink}/blob/master/${questionsDir}/Question${index}.md" target="_blank">
+  <img src="https://img.shields.io/badge/Question-${index}-purple?style=for-the-badge&logoSize=60" alt="Question ${index}" style="display: inline-block;">
+</a>
+</div>
+
+### **Description**
+More questions Comming Soon
+Contributors to provide a clear and concise description of the task for **Question ${index}**.
+
+### **Hint**
+![Hint](https://img.shields.io/badge/Hint:-blue)  
+Provide useful hints or tips for solving **Question ${index}**.
+
+### **Expected Output**
+![Output](https://img.shields.io/badge/Output:-blue)  
+Describe the expected result or output of **Question ${index}**.
+
+<div class="center margin-top">
+  <a href="${repoLink}/blob/master/${solutionsDir}/Solution" target="_blank">
+    <img src="https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white" alt="Solution">
+  </a>
+  <br>
+  <a href="${repoLink}/blob/master/${solutionsDir}/Solution${index}.js" target="_blank">View Solution</a>
+</div>
+
+<hr>
