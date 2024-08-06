@@ -10,29 +10,25 @@
 ---
 ---
 
-
+# JavaScript Exercise Questions
+  
 ## Question 1
-<a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/questions/Question1.md" target="_blank">
-  <img src="https://img.shields.io/badge/Question-1-purple?style=for-the-badge&logoSize=60" alt="Question 1">
-</a>
+[![Question 1](https://img.shields.io/badge/Question-1-purple?style=for-the-badge&logoSize=60)]()    
+
 
 ### **Description**
-Question for day1 comming soon.
-Contributers to provide a clear and concise description of the task for **Question 1**.
+Write a function `greet` that takes a name as a parameter and returns a greeting message. For example, if the input is `"Alish"`, the function should return `"Hello, Alish!"`.
 
 ### **Hint**
-![Hint](https://img.shields.io/badge/Hint:-blue)
-Provide useful hints or tips for solving **Question 1**.
+![Hint](https://img.shields.io/badge/Hint:-blue) 
+You can use string concatenation to combine `"Hello, "` with the input name and `"!"`.
 
 ### **Expected Output**
-![Output](https://img.shields.io/badge/Output:-blue)
-Describe the expected result or output of **Question 1**.
+![Output](https://img.shields.io/badge/Output:-blue) 
+The function `greet("Alish")` should return `"Hello, Alish!"`.
 
-### <a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution1.js" target="_blank">
-  <img src="https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white" alt="Solution">
-</a>
-
-<a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution1.js" target="_blank">View Solution</a>
+### ![Solution](https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white)
+[View Solution](https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution1.js)
 
 ---
 

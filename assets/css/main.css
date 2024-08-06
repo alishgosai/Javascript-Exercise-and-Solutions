@@ -1,3 +1,81 @@
+
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #1e1e1e;
+  color: #d4d4d4;
+}
+
+a {
+  color: #61dafb;
+  text-decoration: none;
+  transition: color 0.3s ease-in-out;
+}
+
+a:hover {
+  color: #21a1f1;
+}
+
+header, footer {
+  background-color: #2d2d2d;
+  padding: 1rem 0;
+  text-align: center;
+}
+
+header .container, footer .container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+header h1, footer p {
+  margin: 0;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+}
+
+nav ul li {
+  margin: 0 1rem;
+}
+
+.nav-link {
+  display: flex;
+  align-items: center;
+  font-size: 1.2rem;
+}
+
+.nav-link i {
+  margin-right: 0.5rem;
+}
+
+main.container {
+  max-width: 800px;
+  margin: 2rem auto;
+  padding: 1rem;
+  background-color: #2a2a2a;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transition: background-color 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+}
+
+main.container:hover {
+  background-color: #333;
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+}
+
+footer p {
+  margin: 0.5rem 0;
+}
+
+
+
+
 /* Dark GitHub README Style */
 body {
   color: #e0e0e0;

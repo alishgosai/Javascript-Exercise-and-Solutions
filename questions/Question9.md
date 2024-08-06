@@ -2,27 +2,22 @@
 
 
 ## Question 9
-<a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/questions/Question9.md" target="_blank">
-  <img src="https://img.shields.io/badge/Question-9-purple?style=for-the-badge&logoSize=60" alt="Question 9">
-</a>
+[![Question 9](https://img.shields.io/badge/Question-9-purple?style=for-the-badge&logoSize=60)](https://github.com/alishgosai/Javascript-Exercise-and-Solutions)    
+
 
 ### **Description**
-Question for day9 comming soon.
-Contributers to provide a clear and concise description of the task for **Question 9**.
+Write a function `filterEvens` that takes an array of numbers and returns a new array containing only the even numbers.
 
 ### **Hint**
 ![Hint](https://img.shields.io/badge/Hint:-blue)
-Provide useful hints or tips for solving **Question 9**.
+You can use the `filter` method to create a new array with only even numbers.
 
 ### **Expected Output**
 ![Output](https://img.shields.io/badge/Output:-blue)
-Describe the expected result or output of **Question 9**.
+The function `filterEvens([1, 2, 3, 4, 5])` should return `[2, 4]`.
 
-### <a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution9.js" target="_blank">
-  <img src="https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white" alt="Solution">
-</a>
-
-<a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution9.js" target="_blank">View Solution</a>
+### ![Solution](https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white)
+[View Solution](https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution9.js)
 
 ---
 

@@ -2,27 +2,23 @@
 
 
 ## Question 19
-<a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/questions/Question19.md" target="_blank">
-  <img src="https://img.shields.io/badge/Question-19-purple?style=for-the-badge&logoSize=60" alt="Question 19">
-</a>
+[![Question 19](https://img.shields.io/badge/Question-19-purple?style=for-the-badge&logoSize=60)](https://github.com/alishgosai/Javascript-Exercise-and-Solutions)    
+
 
 ### **Description**
-Question for day19 comming soon.
-Contributers to provide a clear and concise description of the task for **Question 19**.
+You are building a reminder application that sends notifications at specified times. Write a function that takes an array of reminder times (in milliseconds) and a current time, and returns an array of reminders that are due (i.e., times less than or equal to the current time). This will help in notifying users of tasks that need immediate attention.
 
 ### **Hint**
 ![Hint](https://img.shields.io/badge/Hint:-blue)
-Provide useful hints or tips for solving **Question 19**.
+Filter the array of reminders based on the current time.
 
 ### **Expected Output**
 ![Output](https://img.shields.io/badge/Output:-blue)
-Describe the expected result or output of **Question 19**.
+The function `getDueReminders([1628257325000, 1628260925000], 1628257325000)` should return `[1628257325000]`.
 
-### <a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution19.js" target="_blank">
-  <img src="https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white" alt="Solution">
-</a>
 
-<a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution19.js" target="_blank">View Solution</a>
+### ![Solution](https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white)
+[View Solution](https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution19.js)
 
 ---
 

@@ -2,27 +2,22 @@
 
 
 ## Question 14
-<a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/questions/Question14.md" target="_blank">
-  <img src="https://img.shields.io/badge/Question-14-purple?style=for-the-badge&logoSize=60" alt="Question 14">
-</a>
+[![Question 14](https://img.shields.io/badge/Question-14-purple?style=for-the-badge&logoSize=60)](https://github.com/alishgosai/Javascript-Exercise-and-Solutions)    
+
 
 ### **Description**
-Question for day14 comming soon.
-Contributers to provide a clear and concise description of the task for **Question 14**.
+You are building a weather application and need to convert temperatures from Fahrenheit to Celsius. Write a function that takes a temperature in Fahrenheit and returns the equivalent temperature in Celsius. This will allow users to view temperature data in their preferred unit.
 
 ### **Hint**
 ![Hint](https://img.shields.io/badge/Hint:-blue)
-Provide useful hints or tips for solving **Question 14**.
+Use the conversion formula C = (F - 32) * 5/9 to calculate Celsius.
 
 ### **Expected Output**
 ![Output](https://img.shields.io/badge/Output:-blue)
-Describe the expected result or output of **Question 14**.
+The function `convertToFahrenheit(68)` should return `20`.
 
-### <a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution14.js" target="_blank">
-  <img src="https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white" alt="Solution">
-</a>
-
-<a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution14.js" target="_blank">View Solution</a>
+### ![Solution](https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white)
+[View Solution](https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution14.js)
 
 ---
 

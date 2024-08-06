@@ -2,27 +2,22 @@
 
 
 ## Question 8
-<a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/questions/Question8.md" target="_blank">
-  <img src="https://img.shields.io/badge/Question-8-purple?style=for-the-badge&logoSize=60" alt="Question 8">
-</a>
+[![Question 8](https://img.shields.io/badge/Question-8-purple?style=for-the-badge&logoSize=60)](https://github.com/alishgosai/Javascript-Exercise-and-Solutions)    
+
 
 ### **Description**
-Question for day8 comming soon.
-Contributers to provide a clear and concise description of the task for **Question 8**.
+Create a function `isPalindrome` that checks if a given string is a palindrome. A palindrome is a string that reads the same backward as forward. For example, `"madam"` is a palindrome.
 
 ### **Hint**
 ![Hint](https://img.shields.io/badge/Hint:-blue)
-Provide useful hints or tips for solving **Question 8**.
+You can compare the string with its reversed version.
 
 ### **Expected Output**
 ![Output](https://img.shields.io/badge/Output:-blue)
-Describe the expected result or output of **Question 8**.
+The function `isPalindrome("madam")` should return `true`, and `isPalindrome("hello")` should return `false`.
 
-### <a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution8.js" target="_blank">
-  <img src="https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white" alt="Solution">
-</a>
-
-<a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution8.js" target="_blank">View Solution</a>
+### ![Solution](https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white)
+[View Solution](https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution8.js)
 
 ---
 

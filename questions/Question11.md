@@ -2,27 +2,23 @@
 
 
 ## Question 11
-<a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/questions/Question11.md" target="_blank">
-  <img src="https://img.shields.io/badge/Question-11-purple?style=for-the-badge&logoSize=60" alt="Question 11">
-</a>
+[![Question 11](https://img.shields.io/badge/Question-11-purple?style=for-the-badge&logoSize=60)](https://github.com/alishgosai/Javascript-Exercise-and-Solutions)    
+
 
 ### **Description**
-Question for day11 comming soon.
-Contributers to provide a clear and concise description of the task for **Question 11**.
+You are building a library management system where you need to keep track of the books available for lending. Write a function `getAvailableBooks` that takes an array of book objects, each with a `title` and `isAvailable` property, and returns an array of titles of books that are currently available.
 
 ### **Hint**
 ![Hint](https://img.shields.io/badge/Hint:-blue)
-Provide useful hints or tips for solving **Question 11**.
+Filter the array of books based on the `isAvailable` property.
 
 ### **Expected Output**
 ![Output](https://img.shields.io/badge/Output:-blue)
-Describe the expected result or output of **Question 11**.
+The function `getAvailableBooks([{ title: 'Book 1', isAvailable: true }, { title: 'Book 2', isAvailable: false }])` should return `['Book 1']`.
 
-### <a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution11.js" target="_blank">
-  <img src="https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white" alt="Solution">
-</a>
 
-<a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution11.js" target="_blank">View Solution</a>
+### ![Solution](https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white)
+[View Solution](https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution11.js)
 
 ---
 

@@ -2,27 +2,23 @@
 
 
 ## Question 16
-<a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/questions/Question16.md" target="_blank">
-  <img src="https://img.shields.io/badge/Question-16-purple?style=for-the-badge&logoSize=60" alt="Question 16">
-</a>
+[![Question 16](https://img.shields.io/badge/Question-16-purple?style=for-the-badge&logoSize=60)](https://github.com/alishgosai/Javascript-Exercise-and-Solutions)    
+
 
 ### **Description**
-Question for day16 comming soon.
-Contributers to provide a clear and concise description of the task for **Question 16**.
+You are creating a contact list application where users can search for contacts by name. Write a function that takes an array of contact objects, each with a name and phoneNumber property, and a search term. The function should return an array of contacts whose names include the search term. This will allow users to quickly find and retrieve contact information.
 
 ### **Hint**
 ![Hint](https://img.shields.io/badge/Hint:-blue)
-Provide useful hints or tips for solving **Question 16**.
+Use the `includes` method to check if the contact's name contains the search term.
 
 ### **Expected Output**
 ![Output](https://img.shields.io/badge/Output:-blue)
-Describe the expected result or output of **Question 16**.
+The function `searchContacts([{ name: 'Alice', phoneNumber: '1234567890' }, { name: 'Bob', phoneNumber: '0987654321' }], 'Ali')` should return `[{ name: 'Alice', phoneNumber: '1234567890' }]`.
 
-### <a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution16.js" target="_blank">
-  <img src="https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white" alt="Solution">
-</a>
 
-<a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution16.js" target="_blank">View Solution</a>
+### ![Solution](https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white)
+[View Solution](https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution16.js)
 
 ---
 

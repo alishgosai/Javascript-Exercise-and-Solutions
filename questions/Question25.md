@@ -2,27 +2,23 @@
 
 
 ## Question 25
-<a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/questions/Question25.md" target="_blank">
-  <img src="https://img.shields.io/badge/Question-25-purple?style=for-the-badge&logoSize=60" alt="Question 25">
-</a>
+[![Question 25](https://img.shields.io/badge/Question-25-purple?style=for-the-badge&logoSize=60)](https://github.com/alishgosai/Javascript-Exercise-and-Solutions)    
+
 
 ### **Description**
-Question for day25 comming soon.
-Contributers to provide a clear and concise description of the task for **Question 25**.
+You are creating a basic library system. Write a function that takes an array of `book objects`, each with a `title`, `author`, and `publication year`, and returns the books published after a specified `year`.
 
 ### **Hint**
 ![Hint](https://img.shields.io/badge/Hint:-blue)
-Provide useful hints or tips for solving **Question 25**.
+Use array methods to filter books based on the `publication year`.
 
 ### **Expected Output**
 ![Output](https://img.shields.io/badge/Output:-blue)
-Describe the expected result or output of **Question 25**.
+The function should return an array of books published after the specified `year`.
 
-### <a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution25.js" target="_blank">
-  <img src="https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white" alt="Solution">
-</a>
 
-<a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution25.js" target="_blank">View Solution</a>
+### ![Solution](https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white)
+[View Solution](https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution25.js)
 
 ---
 
