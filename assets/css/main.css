@@ -1,0 +1,228 @@
+
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #1e1e1e;
+  color: #d4d4d4;
+}
+
+a {
+  color: #61dafb;
+  text-decoration: none;
+  transition: color 0.3s ease-in-out;
+}
+
+a:hover {
+  color: #21a1f1;
+}
+
+header, footer {
+  background-color: #2d2d2d;
+  padding: 1rem 0;
+  text-align: center;
+}
+
+header .container, footer .container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+header h1, footer p {
+  margin: 0;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+}
+
+nav ul li {
+  margin: 0 1rem;
+}
+
+.nav-link {
+  display: flex;
+  align-items: center;
+  font-size: 1.2rem;
+}
+
+.nav-link i {
+  margin-right: 0.5rem;
+}
+
+main.container {
+  max-width: 800px;
+  margin: 2rem auto;
+  padding: 1rem;
+  background-color: #2a2a2a;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transition: background-color 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+}
+
+main.container:hover {
+  background-color: #333;
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+}
+
+footer p {
+  margin: 0.5rem 0;
+}
+
+
+
+
+/* Dark GitHub README Style */
+body {
+  color: #e0e0e0;
+  background-color: #1e1e1e;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0 20px; /* Add padding for better spacing */
+  box-sizing: border-box;
+}
+
+/* Headings */
+h2, h3 {
+  color: #f5f5f5;
+  font-family: Arial, sans-serif;
+}
+
+h2 {
+  color: #e4eaf1;
+  border-bottom: 1px solid #30363d;
+  padding-bottom: 0.3em;
+  margin-top: 1em;
+  margin-bottom: 0.5em;
+}
+
+h3 {
+  color: #79c0ff;
+  margin-top: 1em;
+  margin-bottom: 0.5em;
+}
+
+/* Paragraphs */
+p {
+  color: #c9d1d9;
+  margin-bottom: 1em;
+  font-family: Arial, sans-serif;
+}
+
+/* Links */
+a {
+  color: #58a6ff;
+  text-decoration: none;
+  position: relative;
+  display: inline-block;
+  transition: color 0.3s ease, text-decoration 0.3s ease;
+}
+
+a::after {
+  content: '';
+  position: absolute;
+  left: 50%;
+  bottom: 0;
+  width: 0;
+  height: 2px;
+  margin-bottom: -.5em;
+  background-color: #58a6ff;
+  transition: width 0.3s ease, left 0.3s ease;
+}
+
+a:hover::after {
+  left: 0;
+  width: 100%;
+}
+
+/* Images */
+img[alt*="Question"], 
+img[alt*="Hint"], 
+img[alt*="Output"], 
+img[alt*="Solution"] {
+  border-radius: 4px;
+  vertical-align: middle;
+  transition: transform 0.3s ease;
+}
+
+img:hover {
+  transform: scale(1.1);
+}
+
+p img {
+  display: inline;
+  vertical-align: middle;
+  margin-right: 0.5em;
+}
+
+/* Adjust margin for paragraphs following headings */
+h3 + p {
+  margin-bottom: 1em;
+}
+
+/* Horizontal Rule */
+hr {
+  border: 0;
+  border-top: 1px solid #30363d;
+  margin: 2em 0;
+}
+
+/* Code Blocks */
+code {
+  background-color: #2d333b;
+  color: #c9d1d9;
+  padding: 0.2em 0.4em;
+  border-radius: 6px;
+  font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, Courier, monospace;
+}
+
+pre {
+  background-color: #2d333b;
+  color: #d69d85;
+  padding: 1em;
+  border-radius: 6px;
+  overflow-x: auto;
+  font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, Courier, monospace;
+}
+
+/* Blockquote */
+blockquote {
+  border-left: 4px solid #58a6ff;
+  padding-left: 1em;
+  color: #8b949e;
+  margin: 1.5em 0;
+}
+
+/* Lists */
+ul, 
+ol {
+  margin-left: 1.5em;
+  margin-bottom: 1em;
+}
+
+ul li, 
+ol li {
+  margin-bottom: 0.5em;
+}
+
+/* Flexbox Utilities */
+.center {
+  gap: 5px;
+  display: flex;
+  justify-content: center; /* Center aligned */
+  align-items: center;
+  flex-direction: row;
+}
+
+.left-align {
+  text-align: left;
+  width: 100%;
+}
+
+.margin-top {
+  margin-top: 10px;
+}
