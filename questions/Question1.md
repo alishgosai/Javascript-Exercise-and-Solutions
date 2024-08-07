@@ -1,5 +1,5 @@
 
-# JavaScript Questions and Solutions
+# [JavaScript AnswerDeck](https://github.com/alishgosai/Javascript-Exercise-and-Solutions)
 
 ---
 ## Developed by [Alish Gosai](https://github.com/alishgosai)
@@ -8,9 +8,6 @@
 
 
 ---
----
-
-# JavaScript Exercise Questions
   
 ## Question 1
 [![Question 1](https://img.shields.io/badge/Question-1-purple?style=for-the-badge&logoSize=60)]()    
