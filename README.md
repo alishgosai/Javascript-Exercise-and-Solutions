@@ -1,5 +1,5 @@
 
-# [JavaScript AnswerDeck](https://github.com/alishgosai/Javascript-Exercise-and-Solutions)
+# [JavaScript AnswerDeck](https://alishgosai.github.io/Javascript-Exercise-and-Solutions/)
 
 ---
 ## Developed by [Alish Gosai](https://github.com/alishgosai)
