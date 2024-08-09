@@ -68,7 +68,6 @@ body {
 #markdown-content {
   width: 100%;
   background-color: #1e1e1e;
-  padding: 2rem;
   border-radius: 8px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   transition: background-color 0.3s, box-shadow 0.3s;
