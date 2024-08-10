@@ -83,7 +83,7 @@ header, footer {
 
 /* Main Content Styling */
 main.container, #markdown-content {
-  max-width: 800px;
+  max-width: 1300px;
   margin: 2rem auto;
   padding: 1rem;
   background-color: #2a2a2a;
@@ -264,6 +264,29 @@ ol li {
 .margin-top {
   margin-top: 10px;
 }
+
+.question-ans-section{
+  display: flex;
+  position: relative;
+}
+.question-ans-section .left-content{
+  flex: 0 0 70%;
+  max-width: 70%;
+}
+.question-ans-section .right-content{
+  flex: 0 0 30%;
+  max-width: 30%;
+
+}
+.question-ans-section .side-bar{
+  position: sticky;
+  top: 20px;
+  border: 1px solid #ddd;
+  list-style: none;
+  padding-left: 0;
+  margin-bottom: 0;
+}
+
 
 /* Media Queries */
 @media (max-width: 768px) {
