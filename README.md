@@ -7,6 +7,7 @@
 ### Questions and Solutions by: [Alish Gosai](https://github.com/alishgosai) & [Alish Pawn](https://github.com/alishpawn1)
 
 
+<div class="question-ans-box">
 ---
   
 ## Question 1
@@ -28,11 +29,13 @@ The function `greet("Alish")` should return `"Hello, Alish!"`.
 [View Solution](https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution1.js)
 
 ---
+</div>
 
 
 
 
 
+<div class="question-ans-box">
 ## Question 2
 [![Question 2](https://img.shields.io/badge/Question-2-purple?style=for-the-badge&logoSize=60)](https://github.com/alishgosai/Javascript-Exercise-and-Solutions)    
 
@@ -51,11 +54,13 @@ The function `sum(5, 3)` should return `8`.
 [View Solution](https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution2.js)
 
 ---
+</div>
 
 
 
 
 
+<div class="question-ans-box">
 ## Question 3
 [![Question 3](https://img.shields.io/badge/Question-3-purple?style=for-the-badge&logoSize=60)](https://github.com/alishgosai/Javascript-Exercise-and-Solutions)    
 
@@ -74,11 +79,13 @@ The function `isEven(4)` should return `true`, and `isEven(7)` should return `fa
 [View Solution](https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution3.js)
 
 ---
+</div>
 
 
 
 
 
+<div class="question-ans-box">
 ## Question 4
 [![Question 4](https://img.shields.io/badge/Question-4-purple?style=for-the-badge&logoSize=60)](https://github.com/alishgosai/Javascript-Exercise-and-Solutions)    
 
@@ -97,11 +104,13 @@ The function `reverseString("hello")` should return `"olleh"`.
 [View Solution](https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution4.js)
 
 ---
+</div>
 
 
 
 
 
+<div class="question-ans-box">
 ## Question 5
 [![Question 5](https://img.shields.io/badge/Question-5-purple?style=for-the-badge&logoSize=60)](https://github.com/alishgosai/Javascript-Exercise-and-Solutions)    
 
@@ -120,10 +129,12 @@ The function `countVowels("hello")` should return `2`.
 [View Solution](https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution5.js)
 
 ---
+</div>
 
 
 
 
+<div class="question-ans-box">
 
 ## Question 6
 [![Question 6](https://img.shields.io/badge/Question-6-purple?style=for-the-badge&logoSize=60)](https://github.com/alishgosai/Javascript-Exercise-and-Solutions)    
@@ -143,11 +154,13 @@ The function `multiplyArray([2, 3, 4])` should return `24`.
 [View Solution](https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution6.js)
 
 ---
+</div>
 
 
 
 
 
+<div class="question-ans-box">
 ## Question 7
 [![Question 7](https://img.shields.io/badge/Question-7-purple?style=for-the-badge&logoSize=60)](https://github.com/alishgosai/Javascript-Exercise-and-Solutions)    
 
@@ -167,11 +180,13 @@ The function `findMax([1, 3, 5, 2])` should return `5`.
 [View Solution](https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution7.js)
 
 ---
+</div>
 
 
 
 
 
+<div class="question-ans-box">
 ## Question 8
 [![Question 8](https://img.shields.io/badge/Question-8-purple?style=for-the-badge&logoSize=60)](https://github.com/alishgosai/Javascript-Exercise-and-Solutions)    
 
@@ -192,10 +207,12 @@ The function `isPalindrome("madam")` should return `true`, and `isPalindrome("he
 
 ---
 
+</div>
 
 
 
 
+<div class="question-ans-box">
 ## Question 9
 [![Question 9](https://img.shields.io/badge/Question-9-purple?style=for-the-badge&logoSize=60)](https://github.com/alishgosai/Javascript-Exercise-and-Solutions)    
 
@@ -215,11 +232,13 @@ The function `filterEvens([1, 2, 3, 4, 5])` should return `[2, 4]`.
 [View Solution](https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution9.js)
 
 ---
+</div>
 
 
 
 
 
+<div class="question-ans-box">
 ## Question 10
 [![Question 10](https://img.shields.io/badge/Question-10-purple?style=for-the-badge&logoSize=60)](https://github.com/alishgosai/Javascript-Exercise-and-Solutions)    
 
@@ -239,11 +258,13 @@ The function `removeDuplicates([1, 2, 2, 3])` should return `[1, 2, 3]`.
 [View Solution](https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution10.js)
 
 ---
+</div>
 
 
 
 
 
+<div class="question-ans-box">
 ## Question 11
 [![Question 11](https://img.shields.io/badge/Question-11-purple?style=for-the-badge&logoSize=60)](https://github.com/alishgosai/Javascript-Exercise-and-Solutions)    
 
@@ -264,11 +285,13 @@ The function `getAvailableBooks([{ title: 'Book 1', isAvailable: true }, { title
 [View Solution](https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution11.js)
 
 ---
+</div>
 
 
 
 
 
+<div class="question-ans-box">
 ## Question 12
 [![Question 12](https://img.shields.io/badge/Question-12-purple?style=for-the-badge&logoSize=60)](https://github.com/alishgosai/Javascript-Exercise-and-Solutions)    
 
@@ -288,11 +311,13 @@ The function `formatMessage('Hello', 1628257325000)` should return `'Hello (12:0
 [View Solution](https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution12.js)
 
 ---
+</div>
 
 
 
 
 
+<div class="question-ans-box">
 ## Question 13
 [![Question 13](https://img.shields.io/badge/Question-13-purple?style=for-the-badge&logoSize=60)](https://github.com/alishgosai/Javascript-Exercise-and-Solutions)    
 
@@ -312,11 +337,13 @@ The function `calculateAverageRating([5, 4, 3, 5, 4])` should return `4.2`.
 [View Solution](https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution13.js)
 
 ---
+</div>
 
 
 
 
 
+<div class="question-ans-box">
 ## Question 14
 [![Question 14](https://img.shields.io/badge/Question-14-purple?style=for-the-badge&logoSize=60)](https://github.com/alishgosai/Javascript-Exercise-and-Solutions)    
 
@@ -468,6 +495,7 @@ The function `getDueReminders([1628257325000, 1628260925000], 1628257325000)` sh
 
 
 
+
 ## Question 20
 [![Question 20](https://img.shields.io/badge/Question-20-purple?style=for-the-badge&logoSize=60)](https://github.com/alishgosai/Javascript-Exercise-and-Solutions)    
 
@@ -488,6 +516,7 @@ The function `getPerfectAttendance([{ name: 'Alice', attendance: 100 }, { name: 
 [View Solution](https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution20.js)
 
 ---
+</div>
 
 
 
