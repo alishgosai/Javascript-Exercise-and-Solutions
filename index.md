@@ -3,4 +3,4 @@ layout: default
 title: Home
 ---
 
-{% include_relative README.html %}
+{% include_relative README.md | markdownify %}
