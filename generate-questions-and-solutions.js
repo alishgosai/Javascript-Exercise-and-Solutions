@@ -110,7 +110,7 @@ function generateQuestionContent(index) {
 
   return `
 
-
+<div class="question-and-solution">
 ## Question ${index}
 <a href="${repoLink}/blob/master/${questionsDir}/Question${index}.md" target="_blank">
   <img src="https://img.shields.io/badge/Question-${index}-purple?style=for-the-badge&logoSize=60" alt="Question ${index}">
@@ -134,8 +134,7 @@ Describe the expected result or output of **Question ${index}**.
 
 <a href="${repoLink}/blob/master/${solutionsDir}/Solution${index}.js" target="_blank">View Solution</a>
 
----
-
+</div>
 `;
 }
 
