@@ -27,8 +27,13 @@
   </header>
 
   <main id="content" class="flex-content">
-    <section id="markdown-content">
-      {{ content }}
+    <section class="question-ans-section" id="markdown-content">
+      <div class="left-content">
+        {{ content }}
+      </div>
+      <div class="right-content">
+        
+      </div>
     </section>
     <!-- Empty div for dynamically loading solutions -->
     <div id="solutions-container"></div>
@@ -45,6 +50,7 @@
     </div>
   </footer>
 
+  <script src="https://cdn.jsdelivr.net/npm/jquery@3.7.1/dist/jquery.min.js"></script>
   <script src="{{ "/assets/js/main.js" | relative_url }}"></script>
 </body>
 </html>
