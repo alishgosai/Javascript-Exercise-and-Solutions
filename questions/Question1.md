@@ -8,12 +8,10 @@
 
 
 ---
-
 <div class="question-ans-section">
-  
+
 ## Question 1
 [![Question 1](https://img.shields.io/badge/Question-1-purple?style=for-the-badge&logoSize=60)]()    
-
 
 ### **Description**
 Write a function `greet` that takes a name as a parameter and returns a greeting message. For example, if the input is `"Alish"`, the function should return `"Hello, Alish!"`.
