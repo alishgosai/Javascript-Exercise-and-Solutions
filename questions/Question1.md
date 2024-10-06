@@ -8,7 +8,7 @@
 
 
 ---
-<div class="question-ans-section">
+
 
 ## Question 1
 [![Question 1](https://img.shields.io/badge/Question-1-purple?style=for-the-badge&logoSize=60)]()    
@@ -29,4 +29,4 @@ The function `greet("Alish")` should return `"Hello, Alish!"`.
 
 ---
 
-</div>
+
