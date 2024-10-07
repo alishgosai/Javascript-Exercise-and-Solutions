@@ -14,7 +14,7 @@ Use the conversion formula C = (F - 32) * 5/9 to calculate Celsius.
 
 ### **Expected Output**
 ![Output](https://img.shields.io/badge/Output:-blue)
-The function `convertToFahrenheit(68)` should return `20`.
+The function `convertToCelsius(68)` should return `20`.
 
 ### ![Solution](https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white)
 [View Solution](https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution14.js)
