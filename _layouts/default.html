@@ -1,8 +1,3 @@
----
-layout: default
-title: Home
----
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -34,16 +29,7 @@ title: Home
   </header>
 
   <main id="content" class="flex-content">
-    <section class="question-ans-section" id="markdown-content">
-      <div class="left-content">
-        {{ content }}
-      </div>
-      <div class="right-content">
-        <!-- Add any additional content -->
-      </div>
-    </section>
-    <!-- Empty div for dynamically loading solutions -->
-    <div id="solutions-container"></div>
+    {{ content }}
   </main>
 
   <footer id="main-footer" class="flex-footer">
