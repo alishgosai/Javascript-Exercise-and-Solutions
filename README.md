@@ -8,7 +8,7 @@
 
 
 ---
-<div class="question-ans-section">
+
 
 ## Question 1
 [![Question 1](https://img.shields.io/badge/Question-1-purple?style=for-the-badge&logoSize=60)]()    
@@ -29,7 +29,7 @@ The function `greet("Alish")` should return `"Hello, Alish!"`.
 
 ---
 
-</div>
+
 
 
 
@@ -331,7 +331,7 @@ Use the conversion formula C = (F - 32) * 5/9 to calculate Celsius.
 
 ### **Expected Output**
 ![Output](https://img.shields.io/badge/Output:-blue)
-The function `convertToFahrenheit(68)` should return `20`.
+The function `convertToCelsius(68)` should return `20`.
 
 ### ![Solution](https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white)
 [View Solution](https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution14.js)
@@ -739,195 +739,3 @@ The function should return an array of `overdue tasks`.
 
 ---
 
-
-
-
-
-## Question 31
-[![Question 31](https://img.shields.io/badge/Question-31-purple?style=for-the-badge&logoSize=60)](<a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions" target="_blank">https://github.com/alishgosai/Javascript-Exercise-and-Solutions</a>)
-
-### **Description**
-Question for day 31 coming soon.  
-Provide a clear and concise description of the task for **Question 31**. For example, if the task involves creating a function, explain what the function should accomplish and any parameters it should accept.
-
-### **Hint**
-![Hint](https://img.shields.io/badge/Hint:-blue)  
-Provide useful hints or tips for solving **Question 31**. For instance, suggest key methods or concepts to consider.
-
-### **Expected Output**
-![Output](https://img.shields.io/badge/Output:-blue)  
-Describe the expected result or output of **Question 31**. Specify what the function or solution should return or how it should behave.
-
-### [![Solution](https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white)](<a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution31.js" target="_blank">Solution 31</a>)
-<a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution31.js" target="_blank">View Solution</a>
-
----
-
-
-
-
-
-## Question 32
-<a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions" target="_blank">
-  <img src="https://img.shields.io/badge/Question-32-purple?style=for-the-badge&logoSize=60" alt="Question 32">
-</a>
-
-[![Question 32](https://img.shields.io/badge/Question-32-purple?style=for-the-badge&logoSize=60)](https://github.com/alishgosai/Javascript-Exercise-and-Solutions)    
-
-
-### **Description**
-Question for day32 comming soon.
-Provide a clear and concise description of the task for **Question 32**. For example, if the task involves creating a function, explain what the function should accomplish and any parameters it should accept.
-
-### **Hint**
-![Hint](https://img.shields.io/badge/Hint:-blue)
-Provide useful hints or tips for solving **Question 32**. For instance, suggest key methods or concepts to consider.
-
-### **Expected Output**
-![Output](https://img.shields.io/badge/Output:-blue)
-Describe the expected result or output of **Question 32**. Specify what the function or solution should return or how it should behave.
-
-### ![Solution](https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white)
-<a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution32.js" target="_blank">View Solution</a>
----
-
-
-
-
-
-## Question 33
-<a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/questions/Questions33.md" target="_blank">
-  <img src="https://img.shields.io/badge/Question-33-purple?style=for-the-badge&logoSize=60" alt="Question 33">
-</a>
-
-### **Description**
-Question for day33 comming soon.
-Contributers to provide a clear and concise description of the task for **Question 33**.
-
-### **Hint**
-![Hint](https://img.shields.io/badge/Hint:-blue)
-Provide useful hints or tips for solving **Question 33**.
-
-### **Expected Output**
-![Output](https://img.shields.io/badge/Output:-blue)
-Describe the expected result or output of **Question 33**.
-
-### <a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution33.js" target="_blank">
-  <img src="https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white" alt="Solution">
-</a>
-<a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution33.js" target="_blank">View Solution</a>
----
-
-
-## Question ${index}
-<div class="center margin-top">
-<a href="${repoLink}/blob/master/${questionsDir}/Question${index}.md" target="_blank">
-  <img src="https://img.shields.io/badge/Question-${index}-purple?style=for-the-badge&logoSize=60" alt="Question ${index}" style="display: inline-block;">
-</a>
-</div>
-
-### **Description**
-More questions Comming Soon
-Contributors to provide a clear and concise description of the task for **Question ${index}**.
-
-### **Hint**
-![Hint](https://img.shields.io/badge/Hint:-blue)  
-Provide useful hints or tips for solving **Question ${index}**.
-
-### **Expected Output**
-![Output](https://img.shields.io/badge/Output:-blue)  
-Describe the expected result or output of **Question ${index}**.
-
-<div class="center margin-top">
-  <a href="${repoLink}/blob/master/${solutionsDir}/Solution" target="_blank">
-    <img src="https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white" alt="Solution">
-  </a>
-  <br>
-  <a href="${repoLink}/blob/master/${solutionsDir}/Solution${index}.js" target="_blank">View Solution</a>
-</div>
-
-<hr>
-
-
-
-<div class="question-and-solution">
-## Question 35
-<a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/questions/Question35.md" target="_blank">
-  <img src="https://img.shields.io/badge/Question-35-purple?style=for-the-badge&logoSize=60" alt="Question 35">
-</a>
-
-### **Description**
-Question for day35 comming soon.
-Contributers to provide a clear and concise description of the task for **Question 35**.
-
-### **Hint**
-![Hint](https://img.shields.io/badge/Hint:-blue)
-Provide useful hints or tips for solving **Question 35**.
-
-### **Expected Output**
-![Output](https://img.shields.io/badge/Output:-blue)
-Describe the expected result or output of **Question 35**.
-
-### <a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution35.js" target="_blank">
-  <img src="https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white" alt="Solution">
-</a>
-
-<a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution35.js" target="_blank">View Solution</a>
-
-</div>
-
-
-
-<div class="question-and-solution">
-## Question 36
-<a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/questions/Question36.md" target="_blank">
-  <img src="https://img.shields.io/badge/Question-36-purple?style=for-the-badge&logoSize=60" alt="Question 36">
-</a>
-
-### **Description**
-Question for day36 comming soon.
-Contributers to provide a clear and concise description of the task for **Question 36**.
-
-### **Hint**
-![Hint](https://img.shields.io/badge/Hint:-blue)
-Provide useful hints or tips for solving **Question 36**.
-
-### **Expected Output**
-![Output](https://img.shields.io/badge/Output:-blue)
-Describe the expected result or output of **Question 36**.
-
-### <a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution36.js" target="_blank">
-  <img src="https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white" alt="Solution">
-</a>
-
-<a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution36.js" target="_blank">View Solution</a>
-
-</div>
-
-
-
-<div class="question-and-solution">
-## Question 37
-<a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/questions/Question37.md" target="_blank">
-  <img src="https://img.shields.io/badge/Question-37-purple?style=for-the-badge&logoSize=60" alt="Question 37">
-</a>
-
-### **Description**
-Question for day37 comming soon.
-Contributers to provide a clear and concise description of the task for **Question 37**.
-
-### **Hint**
-![Hint](https://img.shields.io/badge/Hint:-blue)
-Provide useful hints or tips for solving **Question 37**.
-
-### **Expected Output**
-![Output](https://img.shields.io/badge/Output:-blue)
-Describe the expected result or output of **Question 37**.
-
-### <a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution37.js" target="_blank">
-  <img src="https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white" alt="Solution">
-</a>
-
-<a href="https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution37.js" target="_blank">View Solution</a>
-
-</div>
