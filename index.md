@@ -3,4 +3,7 @@ layout: default
 title: Home
 ---
 
-{% include_relative README.md | markdownify %}
+{% capture readme_content %}
+{% include_relative README.md %}
+{% endcapture %}
+{{ readme_content | markdownify }}
