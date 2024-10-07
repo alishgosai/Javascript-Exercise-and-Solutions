@@ -1,13 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ page.title | default: site.title }}</title>
-  <link rel="stylesheet" href="{{ "/assets/css/styles.css" | relative_url }}">
+  <link rel="stylesheet" href="{{ " /assets/css/styles.css" | relative_url }}">
   <link rel="stylesheet" href="../assets/css/styles.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 </head>
+
 <body>
   <header id="main-header" class="flex-header">
     <div class="header-container">
@@ -31,55 +33,13 @@
     <section class="question-ans-section" id="markdown-content">
       <div class="left-content">
         ---
-layout: default
-title: Home
----
-
-<div class="question-ans-section">
-
-## Question 1
-[![Question 1](https://img.shields.io/badge/Question-1-purple?style=for-the-badge&logoSize=60)]()    
-
-### **Description**
-Write a function `greet` that takes a name as a parameter and returns a greeting message. For example, if the input is `"Alish"`, the function should return `"Hello, Alish!"`.
-
-### **Hint**
-![Hint](https://img.shields.io/badge/Hint:-blue) 
-You can use string concatenation to combine `"Hello, "` with the input name and `"!"`.
-
-### **Expected Output**
-![Output](https://img.shields.io/badge/Output:-blue) 
-The function `greet("Alish")` should return `"Hello, Alish!"`.
-
-### ![Solution](https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white)
-[View Solution](https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution1.js)
-
----
-
-</div>
-
-## Question 2
-[![Question 2](https://img.shields.io/badge/Question-2-purple?style=for-the-badge&logoSize=60)](https://github.com/alishgosai/Javascript-Exercise-and-Solutions)    
-
-### **Description**
-Create a function `sum` that takes two numbers as parameters and returns their sum. For example, if the inputs are `5` and `3`, the function should return `8`.
-
-### **Hint**
-![Hint](https://img.shields.io/badge/Hint:-blue) You can simply add the two parameters together using the `+` operator.
-
-### **Expected Output**
-![Output](https://img.shields.io/badge/Output:-blue) 
-The function `sum(5, 3)` should return `8`.
-
-### ![Solution](https://img.shields.io/badge/Solution-1f8e00?style=for-the-badge&logo=solution&logoColor=white)
-[View Solution](https://github.com/alishgosai/Javascript-Exercise-and-Solutions/blob/master/solutions/Solution2.js)
-
----
-
+        layout: default
+        title: Home
+        ---
         {{ content }}
       </div>
       <div class="right-content">
-        
+
       </div>
     </section>
     <!-- Empty div for dynamically loading solutions -->
@@ -97,8 +57,9 @@ The function `sum(5, 3)` should return `8`.
     </div>
   </footer>
 
-  <script src="{{ "/assets/js/main.js" | relative_url }}"></script>
+  <script src="{{ " /assets/js/main.js" | relative_url }}"></script>
   <!-- for local sersver need to delete -->
-   <script src="../assets/js/main.js"></script>
+  <script src="../assets/js/main.js"></script>
 </body>
+
 </html>
